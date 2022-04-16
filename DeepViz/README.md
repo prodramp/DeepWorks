@@ -3,7 +3,7 @@
 ### Lets prove it ###
 
  
--  Tensor
+-  [Tensor](https://github.com/prodramp/DeepWorks/blob/main/DeepViz/Tensor/README.md)
 -  Neural Network 
 -  Single-layer neural network
 -  Layer and Hidden Layer
