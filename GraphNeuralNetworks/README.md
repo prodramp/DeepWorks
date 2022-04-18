@@ -6,6 +6,7 @@
 
 ## Libraries ###
 - https://networkit.github.io/
+- https://github.com/danielegrattarola/spektral
 - https://networkx.org/
 - https://pytorch-geometric.readthedocs.io/en/latest/
 - 
