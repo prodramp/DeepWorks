@@ -16,6 +16,7 @@
 
 ### Starters: ###
 - https://www.kdnuggets.com/2018/05/wtf-tensor.html
+- https://medium.com/tebs-lab/types-of-graphs-7f3891303ea8
 - https://hadrienj.github.io/posts/Deep-Learning-Book-Series-2.1-Scalars-Vectors-Matrices-and-Tensors/
 - https://towardsdatascience.com/an-introduction-to-graph-neural-network-gnn-for-analysing-structured-data-afce79f4cfdc
 - https://towardsdatascience.com/understanding-graph-convolutional-networks-for-node-classification-a2bfdb7aba7b
