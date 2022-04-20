@@ -1,6 +1,18 @@
 # Graph Neural Networks #
 
 
+<table class="table table-striped table-bordered table-vcenter">
+    <tr>
+        <td align="center"><b>🔥&nbsp; Part #1:&nbsp; Think Graph Neural Networks (GNN) are hard to understand? Try this part 1 of two part series..</b></td>
+    </tr>
+    <tr>
+        <td>
+            <div>
+                
+[![Think Graph Neural Networks (GNN) are hard to understand? Try this part 1 of two part series.](https://img.youtube.com/vi/YdGN-J322y4/0.jpg)](https://www.youtube.com/watch?v=YdGN-J322y4)
+
+  </tr>
+</table>
 
 
 
