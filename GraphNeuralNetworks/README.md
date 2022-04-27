@@ -42,9 +42,13 @@
 - https://medium.com/analytics-vidhya/getting-the-intuition-of-graph-neural-networks-a30a2c34280d
 - https://medium.com/@BorisAKnyazev/tutorial-on-graph-neural-networks-for-computer-vision-and-beyond-part-1-3d9fada3b80d
 - https://towardsdatascience.com/feature-extraction-for-graphs-625f4c5fb8cd
+- https://towardsdatascience.com/introduction-to-message-passing-neural-networks-e670dc103a87
 - https://towardsdatascience.com/how-can-we-explain-graph-neural-network-5031ea127004 (GNNExplainer)
 - 
 
+### Small but useful References ###
+- https://stackoverflow.com/questions/13517614/draw-different-color-for-nodes-in-networkx-based-on-their-node-value
+- https://stackoverflow.com/questions/65765342/coloring-nodes-by-class-and-adding-class-as-a-vdim-in-holoviews-with-networkx
 
 ### Examples ###
 - https://graphsandnetworks.com/the-cora-dataset/
