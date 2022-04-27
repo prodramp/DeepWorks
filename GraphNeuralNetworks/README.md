@@ -40,6 +40,9 @@
 - https://towardsdatascience.com/hands-on-graph-neural-networks-with-pytorch-pytorch-geometric-359487e221a8
 - https://medium.com/analytics-vidhya/getting-the-intuition-of-graph-neural-networks-a30a2c34280d
 - https://medium.com/@BorisAKnyazev/tutorial-on-graph-neural-networks-for-computer-vision-and-beyond-part-1-3d9fada3b80d
+- https://towardsdatascience.com/feature-extraction-for-graphs-625f4c5fb8cd
+- https://towardsdatascience.com/how-can-we-explain-graph-neural-network-5031ea127004 (GNNExplainer)
+- 
 
 
 ### Examples ###
