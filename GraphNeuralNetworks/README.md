@@ -35,6 +35,7 @@
 - https://towardsdatascience.com/understanding-graph-convolutional-networks-for-node-classification-a2bfdb7aba7b
 - https://neptune.ai/blog/graph-neural-network-and-some-of-gnn-applications
 - https://pub.towardsai.net/understanding-social-networks-409dffc785ea
+- https://towardsdatascience.com/graph-coloring-with-networkx-88c45f09b8f4
 
 ### Advance: ###
 - https://towardsdatascience.com/hands-on-graph-neural-networks-with-pytorch-pytorch-geometric-359487e221a8
