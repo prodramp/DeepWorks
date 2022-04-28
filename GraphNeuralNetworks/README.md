@@ -15,7 +15,23 @@
 </table>
 
 
+## Tutorial Part 2: content ##
+    
+<div align="center">
+  <img src="https://github.com/prodramp/DeepWorks/blob/main/GraphNeuralNetworks/images/graph-to-code-viz.png" width="800" />
+</div> 
+    
+<div align="center">
+  <img src="https://github.com/prodramp/DeepWorks/blob/main/GraphNeuralNetworks/images/conv-on-images.png" width="800" />
+</div> 
+<div align="center">
+  <img src="https://github.com/prodramp/DeepWorks/blob/main/GraphNeuralNetworks/images/conv-on-graph.png" width="800" />
+</div> 
+<div align="center">
+  <img src="https://github.com/prodramp/DeepWorks/blob/main/GraphNeuralNetworks/images/node-embeddings.png?raw=true" width="800" />
+</div> 
 
+    
 ## Libraries ###
 - https://networkit.github.io/
 - https://github.com/danielegrattarola/spektral
