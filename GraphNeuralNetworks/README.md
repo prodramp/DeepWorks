@@ -44,6 +44,7 @@
 - https://towardsdatascience.com/feature-extraction-for-graphs-625f4c5fb8cd
 - https://towardsdatascience.com/introduction-to-message-passing-neural-networks-e670dc103a87
 - https://towardsdatascience.com/how-can-we-explain-graph-neural-network-5031ea127004 (GNNExplainer)
+- https://github.com/OpenXAIProject/GNNExplainer-Tutorial/blob/master/gnnexplainer_cora.ipynb    
 - 
 
 ### Small but useful References ###
