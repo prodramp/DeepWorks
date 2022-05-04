@@ -4,7 +4,9 @@
 
 ## Datasets ##
 - https://www.kaggle.com/datasets/benhamner/nips-papers?select=papers.csv
-- 
+- https://www.yelp.com/dataset
+- https://github.com/deepmind/rc-data
+- http://jmcauley.ucsd.edu/data/amazon/qa/
 
 ## Articles ##
 - https://towardsdatascience.com/evaluate-topic-model-in-python-latent-dirichlet-allocation-lda-7d57484bb5d0
