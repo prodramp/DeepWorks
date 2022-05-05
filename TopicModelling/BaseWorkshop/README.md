@@ -18,6 +18,11 @@ Latent Dirichlet Allocation (LDA) modeling a a type of Topic modelling
   <h6>Image Source: http://chdoig.github.io/pytexas2015-topic-modeling/#/3/4</h6>
 </div> 
 
+<div align="center">
+  <img src="https://github.com/prodramp/DeepWorks/blob/main/TopicModelling/images/lda-model-viz.png" width="800" />
+  <h6>LDA Model Visualization</h6>
+</div> 
+
 
 ## Datasets ##
 - https://www.kaggle.com/datasets/benhamner/nips-papers?select=papers.csv
