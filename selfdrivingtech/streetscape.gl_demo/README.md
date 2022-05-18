@@ -22,6 +22,8 @@
 - You don't need to download any dataset locally on your machine to make this sample works
 - How to run
   - yarn or npm install
+  - create a .env file in the root of this project and add your mapbox token as below:
+     MapboxAccessToken=pk.eyJ1IjoiZm9kZ2Fib3JtYXRoIiwiYSI6ImNrZmY3Nzc2bjBiemkyeG8zdGNzcXgzMGIifQ.J0dZhMiuZTPVexL8nrpS6Q
   - {npm | yarn} start
     - Visit http://localhost:8080
 
@@ -32,7 +34,7 @@
     - Copy all the files (0-frame.json and 0-frame.glb to 153-frame.glb) into the 2011_09_26 sub-folder
   - Create folder/subfolder name(s) 'nuscenes/v0.1' in the project root
     - Copy all the files (0-frame.json and 0-frame.glb to 153-frame.glb) into the v0.1 sub-folder
-- Your Prject Tree should look like as below
+- Your Project Tree should look like as below
   - index.html
   - kitti
     - 2011_09_26 (This folder should have total 156 files)
@@ -41,6 +43,8 @@
   - node_modules
   - src
   - package.json
+  - .env
+    MapboxAccessToken=pk.eyJ1IjoiZm9kZ2Fib3JtYXRoIiwiYSI6ImNrZmY3Nzc2bjBiemkyeG8zdGNzcXgzMGIifQ.J0dZhMiuZTPVexL8nrpS6Q
 - How to Run the example:
   - npm install
   - npm start
