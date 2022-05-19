@@ -30,7 +30,8 @@
 
 
 ### Step 3: Update existing streetscape.gl example to React 17 and Chakra UI with my code
-- Please download the streetscape-demo folder located here
+- Please download the get-started folder located from the link below (its in the same folder where this README is)
+  - https://github.com/prodramp/DeepWorks/tree/main/selfdrivingtech/streetscape.gl_demo/get-started
 - Add your both kitti and NuScenes data you have downloaded in the step 1
   - Create a folder name 'kitti/2011_09_26' in the project root
     - Copy all the files (0-frame.json and 0-frame.glb to 153-frame.glb) into the 2011_09_26 sub-folder
