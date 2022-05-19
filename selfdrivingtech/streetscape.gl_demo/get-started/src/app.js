@@ -63,8 +63,8 @@ const exampleLog = require(__IS_STREAMING__
 class Example extends PureComponent {
   state = {
     dataChoice: 'kitti',
-    logK: exampleLog.nuscenesData,
-    logN: exampleLog.kittiData,
+    logK: exampleLog.kittiData,
+    logN: exampleLog.nuscenesData,
     styleValue:'light',
     mapStyle: MAP_STYLE['light'],
     settings: {
