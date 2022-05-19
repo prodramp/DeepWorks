@@ -3,17 +3,7 @@
 
 ## Project: Visualize Xviz protocol transformed data with streetscape.gl ##
 
-### Step 1: Get Xviz protocol supported data 
-- Downalod Xviz transformed data for KITTI dataset
-  - $ wget https://raw.githubusercontent.com/uber/xviz-data/master/kitti/2011_09_26_drive_0005_sync/0-frame.json
-  - $ wget https://raw.githubusercontent.com/uber/xviz-data/master/kitti/2011_09_26_drive_0005_sync/{1..155}-frame.glb
-  - Note: You should have 1 0-frame.json and 155 {1..155}-frame.glb files, total 156 files
-- Download Xviz transformed data for NuScenes V0.1 dataset
-  - $ wget https://raw.githubusercontent.com/uber/xviz-data/master/nutonomy/scene-0006/0-frame.json
-  - $ wget https://raw.githubusercontent.com/uber/xviz-data/master/nutonomy/scene-0006/{1..390}-frame.glb
-  - Note: You should have 1 0-frame.json and 390 {1..390}-frame.glb files, total 391 files
-
-### Step 2: Get (Familiarize yourself) with the streetscape.gl code and example
+### Step 1: Get (Familiarize yourself) with the streetscape.gl code and example
 - Streetscape Source: https://github.com/aurora-opensource/streetscape.gl
 - Get get-started sample from the steetscape.gl project
   - https://github.com/aurora-opensource/streetscape.gl/tree/master/examples/get-started
@@ -26,6 +16,18 @@
      MapboxAccessToken=pk.eyJ1IjoiZm9kZ2Fib3JtYXRoIiwiYSI6ImNrZmY3Nzc2bjBiemkyeG8zdGNzcXgzMGIifQ.J0dZhMiuZTPVexL8nrpS6Q
   - {npm | yarn} start
     - Visit http://localhost:8080
+    
+    
+### Step 2: Get Xviz protocol supported data 
+- Downalod Xviz transformed data for KITTI dataset
+  - $ wget https://raw.githubusercontent.com/uber/xviz-data/master/kitti/2011_09_26_drive_0005_sync/0-frame.json
+  - $ wget https://raw.githubusercontent.com/uber/xviz-data/master/kitti/2011_09_26_drive_0005_sync/{1..155}-frame.glb
+  - Note: You should have 1 0-frame.json and 155 {1..155}-frame.glb files, total 156 files
+- Download Xviz transformed data for NuScenes V0.1 dataset
+  - $ wget https://raw.githubusercontent.com/uber/xviz-data/master/nutonomy/scene-0006/0-frame.json
+  - $ wget https://raw.githubusercontent.com/uber/xviz-data/master/nutonomy/scene-0006/{1..390}-frame.glb
+  - Note: You should have 1 0-frame.json and 390 {1..390}-frame.glb files, total 391 files
+
 
 ### Step 3: Update existing streetscape.gl example to React 17 and Chakra UI with my code
 - Please download the streetscape-demo folder located here
