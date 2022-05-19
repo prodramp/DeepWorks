@@ -65,12 +65,21 @@ class Example extends PureComponent {
     dataChoice: 'kitti',
     logK: exampleLog.nuscenesData,
     logN: exampleLog.kittiData,
+    styleValue:'light',
+    mapStyle: MAP_STYLE['light'],
     settings: {
       viewMode: 'PERSPECTIVE',
       showTooltip: false
     }
   };
  
+  handleMapChange = (e) => {
+    this.setState({
+      mapStyle:MAP_STYLE[e.target.value],
+      styleValue:e.target.value
+    })
+  }
+
   handleChange = (e) => {
     this.setState({
       dataChoice:e.target.value
@@ -90,54 +99,75 @@ class Example extends PureComponent {
 
   render() {
     const {logK, logN, settings} = this.state;
+
     return (
       <ChakraProvider theme={theme}>
         <Box w="100vw" h="100vh">
-          <HStack w="100vw" h="100vh" zIndex={1}>
-            <VStack w="320px" h="100vh" p="2">
-              <Box w="100%" h="35px">
-                <Select placeholder='Select Data Source' onChange={this.handleChange.bind(this)}>
-                  <option value='kitti' selected>KITTI</option>
-                  <option value='nuscenes'>NuScenes</option>
-                </Select>
-              </Box>
-              <Box w="100%">
-                <XVIZPanel log={this.state.dataChoice === 'kitti' ? logK : logN} name="Camera" />
-              </Box>
-              <Box w="100%">
-                <Form
-                  data={APP_SETTINGS}
-                  values={this.state.settings}
-                  onChange={this._onSettingsChange}
-                />
-              </Box>
-              <Box w="100%" h="100%" p="0">
-                <Tabs>
+          <HStack w="100vw" h="100vh">
+            <Box w="320px" h="100vh" p="2">
+              <Tabs>
                   <TabList>
-                    <Tab p={'1'}>Charts (Metrics)</Tab>
-                    <Tab p={'1'}>Streams (Objects)</Tab>
+                    <Tab p={'1'}>Dataset View</Tab>
+                    <Tab p={'1'}>Settings</Tab>
                   </TabList>
-                  <TabPanels>
-                    <TabPanel>
-                      <Box w="100%">
-                        <XVIZPanel log={this.state.dataChoice === 'kitti' ? logK : logN} name="Metrics" />
-                      </Box>
+                  <TabPanels w="320px" p="0">
+                    <TabPanel p="1">
+                      <VStack w="100%">
+                        <Box w="100%" h="35px">
+                          <Select placeholder='Select Data Source' onChange={this.handleChange.bind(this)}>
+                            <option value='kitti' selected>KITTI</option>
+                            <option value='nuscenes'>NuScenes</option>
+                          </Select>
+                        </Box>
+                        <Box w="100%">
+                          <XVIZPanel log={this.state.dataChoice === 'kitti' ? logK : logN} name="Camera" />
+                        </Box>
+                        <Box w="100%">
+                          <Form
+                            data={APP_SETTINGS}
+                            values={this.state.settings}
+                            onChange={this._onSettingsChange}
+                          />
+                        </Box>
+                        <Box w="100%" h="100%" p="0">
+                          <Tabs>
+                            <TabList>
+                              <Tab p={'1'}>Charts (Metrics)</Tab>
+                              <Tab p={'1'}>Streams (Objects)</Tab>
+                            </TabList>
+                            <TabPanels>
+                              <TabPanel>
+                                <Box w="100%">
+                                  <XVIZPanel log={this.state.dataChoice === 'kitti' ? logK : logN} name="Metrics" />
+                                </Box>
+                              </TabPanel>
+                              <TabPanel maxHeight={'65vh'} overflowY='scroll'>
+                                  <StreamSettingsPanel log={this.state.dataChoice === 'kitti' ? logK : logN} />
+                              </TabPanel>
+                            </TabPanels>
+                          </Tabs>
+                        </Box>
+                      </VStack>
                     </TabPanel>
-                    <TabPanel maxHeight={'65vh'} overflowY='scroll'>
-                        <StreamSettingsPanel log={this.state.dataChoice === 'kitti' ? logK : logN} />
+                    <TabPanel>
+                      <VStack w="320px">
+                        <Box w="100%" border="1" borderColor={'gray.200'} rounded="md" p={'1'}>
+                          <Select placeholder='Select Map Style' onChange={this.handleMapChange.bind(this)}>
+                            <option value='light' selected>Light</option>
+                            <option value='dark'>Dark</option>
+                          </Select>
+                        </Box>
+                      </VStack>
                     </TabPanel>
                   </TabPanels>
                 </Tabs>
-              </Box>
-            </VStack>
+            </Box>
             <VStack w='calc(100vw - 320px)' h="100vh">
-                <Box h='calc(100vh - 100px)' w="calc(100vw - 320px)" position={'relative'} 
-                  // bg={'gray.200'}
-                  >
+                <Box h='calc(100vh - 100px)' w="calc(100vw - 320px)" position={'relative'}>
                   <LogViewer
                     log={this.state.dataChoice === 'kitti' ? logK : logN}
                     mapboxApiAccessToken={MAPBOX_TOKEN}
-                    mapStyle={MAP_STYLE}
+                    mapStyle={this.state.mapStyle}
                     car={CAR}
                     xvizStyles={XVIZ_STYLE}
                     showTooltip={settings.showTooltip}

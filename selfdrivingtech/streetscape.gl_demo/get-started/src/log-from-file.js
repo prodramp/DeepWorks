@@ -37,15 +37,17 @@ const nuscenesData = new XVIZFileLoader(
       }
   );
 
-const kittiData = new XVIZFileLoader({
-  timingsFilePath:
-    `${KITTI_DATA_DIR}/2011_09_26/0-frame.json`,
-  getFilePath: index =>
-    `${KITTI_DATA_DIR}/2011_09_26/${index +
-      1}-frame.glb`,
-  worker: true,
-  maxConcurrency: 4
-});
+const kittiData = new XVIZFileLoader(
+  {
+    timingsFilePath:
+      `${KITTI_DATA_DIR}/2011_09_26/0-frame.json`,
+    getFilePath: index =>
+      `${KITTI_DATA_DIR}/2011_09_26/${index +
+        1}-frame.glb`,
+    worker: true,
+    maxConcurrency: 4
+  }
+);
 
 export {nuscenesData, kittiData};
 

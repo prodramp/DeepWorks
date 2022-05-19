@@ -20,9 +20,14 @@
 import {CarMesh} from 'streetscape.gl';
 
 /* eslint-disable camelcase */
-export const MAPBOX_TOKEN = process.env.MapboxAccessToken; // eslint-disable-line
+// MapboxAccessToken
+//export const MAPBOX_TOKEN = process.env.MapboxAccessToken; // eslint-disable-line
+export const MAPBOX_TOKEN = 'pk.eyJ1IjoiZm9kZ2Fib3JtYXRoIiwiYSI6ImNrZmY3Nzc2bjBiemkyeG8zdGNzcXgzMGIifQ.J0dZhMiuZTPVexL8nrpS6Q'
 
-export const MAP_STYLE = 'mapbox://styles/mapbox/light-v9';
+export const MAP_STYLE = {
+  'light': 'mapbox://styles/mapbox/light-v9',
+  'dark': 'mapbox://styles/mapbox/dark-v10'
+} ;
 // export const MAP_STYLE = 'mapbox://styles/mapbox/dark-v10';
 // export const MAP_STYLE = 'mapbox://styles/mapbox/streets-v11';
 // export const MAP_STYLE = 'mapbox://styles/mapbox/satellite-streets-v11';
