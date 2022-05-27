@@ -32,4 +32,5 @@ Join my YouTube Channel for <a href="https://www.youtube.com/channel/UClLqLPWRst
 - [Self-driving Technology](https://github.com/prodramp/DeepWorks/tree/main/selfdrivingtech)
 - [Number Series and Prediction with ML](https://github.com/prodramp/DeepWorks/tree/main/PredictNumberSeries)
 - [GPT Models (OpenAI and OpenSource)](https://github.com/prodramp/DeepWorks/tree/main/GPT-Models)
+- [No More Blackbox Models: MLI or XAI](https://github.com/prodramp/DeepWorks/tree/main/MLI-XAI)
 
