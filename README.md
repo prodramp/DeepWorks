@@ -18,6 +18,7 @@ Join my YouTube Channel for <a href="https://www.youtube.com/channel/UClLqLPWRst
     <a target="_blank" href="https://twitter.com/prodramp"><img src="https://img.shields.io/twitter/follow/prodramp.svg?label=Follow&style=social"></a>
     <br>
     🔥&nbsp; Among the <a href="https://github.com/topics/deeplearning" target="_blank">Upcoming Deep Learning</a> repository on GitHub
+    &nbsp;🔥
 </div>
 
 <br>
@@ -30,4 +31,5 @@ Join my YouTube Channel for <a href="https://www.youtube.com/channel/UClLqLPWRst
 - [Convolution Example in Python](https://github.com/prodramp/DeepWorks/tree/main/ConvolutionOnImageDemo)
 - [Self-driving Technology](https://github.com/prodramp/DeepWorks/tree/main/selfdrivingtech)
 - [Number Series and Prediction with ML](https://github.com/prodramp/DeepWorks/tree/main/PredictNumberSeries)
+- [GPT Models (OpenAI and OpenSource)](https://github.com/prodramp/DeepWorks/tree/main/GPT-Models)
 
