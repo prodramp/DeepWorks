@@ -29,4 +29,5 @@ Join my YouTube Channel for <a href="https://www.youtube.com/channel/UClLqLPWRst
 - [Topic Modeling](https://github.com/prodramp/DeepWorks/tree/main/TopicModelling)
 - [Convolution Example in Python](https://github.com/prodramp/DeepWorks/tree/main/ConvolutionOnImageDemo)
 - [Self-driving Technology](https://github.com/prodramp/DeepWorks/tree/main/selfdrivingtech)
+- [Number Series and Prediction with ML](https://github.com/prodramp/DeepWorks/tree/main/PredictNumberSeries)
 
