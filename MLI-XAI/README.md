@@ -2,7 +2,21 @@
 
 ## LIME ##
 
+<table class="table table-striped table-bordered table-vcenter">
+    <tr>
+        <td align="center"><b>🔥&nbsp;YouTube Video:&nbsp; Just apply model explanation with LIME to explain, trust and validate your model predictions</b></td>
+    </tr>
+    <tr>
+        <td>
+            <div>
+                
+[![Just apply model explanation with LIME to explain, trust and validate your model predictions](https://img.youtube.com/vi/Op2M5CpJehM/0.jpg)](https://www.youtube.com/watch?v=Op2M5CpJehM)
+
+  </tr>
+</table>
+  
 <div align="center">
+  <hr/>
   <img src="https://www.oreilly.com/content/wp-content/uploads/sites/2/2019/06/Figure-6-c8db425eefec7cff5a3cf035a40d8841.jpg" width="800" />
   <h6>Figure 6. Explanation for a prediction from Inception. The top three predicted classes are “tree frog,” “pool table,” and “balloon.” Sources: Marco Tulio Ribeiro, Pixabay (frog, billiards, hot air balloon).</h6>
   <hr/>
