@@ -22,7 +22,7 @@ A novel way to represent image patches as Graph to perform image recognition and
 ### Google (Vision Transformer (ViT)) - An Image is Worth 16x16 Words ###
 - https://arxiv.org/abs/2010.11929
 - https://huggingface.co/docs/transformers/model_doc/vit
-- 
+- https://github.com/google-research/vision_transformer
 
 Other Helpful Resources:
 - https://www.marktechpost.com/2022/06/08/researchers-from-china-introduce-vision-gnn-vig-a-graph-neural-network-for-computer-vision-systems/
