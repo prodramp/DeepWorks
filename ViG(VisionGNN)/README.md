@@ -1,6 +1,17 @@
+# Vision GNN: An Image is Worth Graph of Nodes # 
 A novel way to represent image patches as Graph to perform image recognition and object detection tasks
 
+<div align="center">
+  <img src="https://github.com/prodramp/DeepWorks/blob/main/ViG(VisionGNN)/images/vig-gnn.png?raw=true" width="1000" />
+</div> 
 
+<div align="center">
+  <img src="https://github.com/prodramp/DeepWorks/blob/main/ViG(VisionGNN)/images/graph-representation.png?raw=true" width="1000" />
+</div> 
+
+<div align="center">
+  <img src="https://github.com/prodramp/DeepWorks/blob/main/ViG(VisionGNN)/images/graph-processing.png?raw=true" width="1000" />
+</div> 
 
 ### GitHub Repo ###
 - https://github.com/huawei-noah/CV-Backbones/
