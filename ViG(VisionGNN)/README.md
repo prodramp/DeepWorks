@@ -27,3 +27,4 @@ A novel way to represent image patches as Graph to perform image recognition and
 Other Helpful Resources:
 - https://www.marktechpost.com/2022/06/08/researchers-from-china-introduce-vision-gnn-vig-a-graph-neural-network-for-computer-vision-systems/
 - https://theaisummer.com/graph-convolutional-networks/#how-graph-convolutions-layer-are-formed
+- https://towardsdatascience.com/over-smoothing-issue-in-graph-neural-network-bddc8fbc2472
