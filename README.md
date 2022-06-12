@@ -25,6 +25,7 @@ Join my YouTube Channel for <a href="https://www.youtube.com/channel/UClLqLPWRst
 <hr>
 
 ## ##
+- [PyTorch Tutorials](https://github.com/prodramp/DeepWorks/tree/main/PyTorchTutorials)
 - [GraphViz](https://github.com/prodramp/DeepWorks/tree/main/DeepViz)
 - [Graph Neural Networks](https://github.com/prodramp/DeepWorks/tree/main/GraphNeuralNetworks)
 - [Topic Modeling](https://github.com/prodramp/DeepWorks/tree/main/TopicModelling)
@@ -33,4 +34,5 @@ Join my YouTube Channel for <a href="https://www.youtube.com/channel/UClLqLPWRst
 - [Number Series and Prediction with ML](https://github.com/prodramp/DeepWorks/tree/main/PredictNumberSeries)
 - [GPT Models (OpenAI and OpenSource)](https://github.com/prodramp/DeepWorks/tree/main/GPT-Models)
 - [No More Blackbox Models: MLI or XAI](https://github.com/prodramp/DeepWorks/tree/main/MLI-XAI)
+- [Vision GNN: An Image is Worth Graph of Nodes](https://github.com/prodramp/DeepWorks/tree/main/ViG(VisionGNN))
 
