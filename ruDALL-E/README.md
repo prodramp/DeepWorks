@@ -16,9 +16,8 @@ The ruDALL-E is an open-source text-to-image transformer mode with following ver
 - https://github.com/ai-forever/ru-dalle
 - Quick Try - https://rudalle.ru/en/
 
-### Code Sample - How to use it at Google Colab ###
-
-'''
+### Code Sample - How to use XL Model at Google Colab ###
+```
 !pip install rudalle
 
 !cat ru-dalle/requirements.txt
@@ -46,17 +45,15 @@ show(pil_images, 12)
 realesrgan = get_realesrgan('x2', device=device)
 super_images = super_resolution(pil_images, realesrgan)
 show(super_images)
-'''
+```
 
 
-### 
-- [Zero-Shot Text-to-Image Generation: https://arxiv.org/pdf/2102.12092.pdf](https://arxiv.org/pdf/2102.12092.pdf)
-- [Attention is all you need: https://arxiv.org/pdf/1706.03762.pdf](https://arxiv.org/pdf/1706.03762.pdf)
-
-### Google (Vision Transformer (ViT)) - An Image is Worth 16x16 Words ###
+### Original Transformer Model, Google ViT - Content ###
 - https://arxiv.org/abs/2010.11929
 - https://huggingface.co/docs/transformers/model_doc/vit
 - https://github.com/google-research/vision_transformer
+- [Zero-Shot Text-to-Image Generation: https://arxiv.org/pdf/2102.12092.pdf](https://arxiv.org/pdf/2102.12092.pdf)
+- [Attention is all you need: https://arxiv.org/pdf/1706.03762.pdf](https://arxiv.org/pdf/1706.03762.pdf)
 
 Other Helpful Resources:
 - https://openai.com/blog/dall-e/
