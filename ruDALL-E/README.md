@@ -12,6 +12,20 @@ The ruDALL-E is an open-source text-to-image transformer mode with following ver
   <img src="https://github.com/prodramp/DeepWorks/blob/main/ruDALL-E/images/ruDALL-e.png?raw=true" width="1000" />
 </div> 
 
+<table class="table table-striped table-bordered table-vcenter">
+    <tr>
+        <td align="center"><b>🔥&nbsp;YouTube Video:&nbsp;Text to Image generation using ruDALL-E open-source Transformer Model (Simlar to DALL-E) </b></td>
+    </tr>
+    <tr>
+        <td>
+            <div>
+                
+[![Text to Image generation using ruDALL-E open-source Transformer Model (Simlar to DALL-E)](https://img.youtube.com/vi/0yl7wEykzag/0.jpg)](https://www.youtube.com/watch?v=0yl7wEykzag)
+
+  </tr>
+</table>
+
+
 ### GitHub Repo ###
 - https://github.com/ai-forever/ru-dalle
 - Quick Try - https://rudalle.ru/en/
@@ -47,6 +61,12 @@ super_images = super_resolution(pil_images, realesrgan)
 show(super_images)
 ```
 
+### GitHub Source Code - Similar Projects ###
+- https://github.com/openai/CLIP
+- https://github.com/lucidrains/DALLE-pytorch
+- https://github.com/AndreyGuzhov/AudioCLIP
+- https://github.com/THUDM/CogView
+
 
 ### Original Transformer Model, Google ViT - Content ###
 - https://arxiv.org/abs/2010.11929
@@ -59,5 +79,6 @@ Other Helpful Resources:
 - https://openai.com/blog/dall-e/
 - https://openai.com/dall-e-2/
 - https://habr.com/en/company/sberbank/blog/589673/
+- https://blog.ml6.eu/multimodal-ai-overview-experiments-with-dall-e-clip-8734c214bee2
 - https://www.marktechpost.com/2022/06/06/researchers-introduce-rudall-e-for-generating-images-from-text-in-russia/
 - https://medium.com/analytics-vidhya/understanding-the-vision-transformer-and-counting-its-parameters-988a4ea2b8f3
