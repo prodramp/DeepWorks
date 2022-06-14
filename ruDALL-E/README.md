@@ -9,7 +9,7 @@ The ruDALL-E is an open-source text-to-image transformer mode with following ver
 - ruDALL-E XXL model, with 12.0 billion parameters 
 
 <div align="center">
-  <img src="https://github.com/prodramp/DeepWorks/blob/main/ruDALL-E/images/ruDALL-E.png" width="1000" />
+  <img src="https://github.com/prodramp/DeepWorks/blob/main/ruDALL-E/images/ruDALL-e.png?raw=true" width="1000" />
 </div> 
 
 ### GitHub Repo ###
