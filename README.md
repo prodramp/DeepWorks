@@ -35,4 +35,5 @@ Join my YouTube Channel for <a href="https://www.youtube.com/channel/UClLqLPWRst
 - [GPT Models (OpenAI and OpenSource)](https://github.com/prodramp/DeepWorks/tree/main/GPT-Models)
 - [No More Blackbox Models: MLI or XAI](https://github.com/prodramp/DeepWorks/tree/main/MLI-XAI)
 - [Vision GNN: An Image is Worth Graph of Nodes](https://github.com/prodramp/DeepWorks/tree/main/ViG(VisionGNN))
+- [ruDALL-E: Text 2 Image 1.3B parameters open source model](https://github.com/prodramp/DeepWorks/tree/main/ruDALL-E)
 
