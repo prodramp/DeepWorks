@@ -1,5 +1,18 @@
 # MoE (Mixture of Experts) # 
 
+<table class="table table-striped table-bordered table-vcenter">
+    <tr>
+        <td align="center"><b>🔥&nbsp;YouTube Video:&nbsp; Research Paper Deep Dive - The Sparsely-Gated Mixture-of-Experts (MoE)</b></td>
+    </tr>
+    <tr>
+        <td>
+            <div>
+                
+[![Research Paper Deep Dive - The Sparsely-Gated Mixture-of-Experts (MoE)](https://img.youtube.com/vi/ADooiJ9V7jo/0.jpg)](https://www.youtube.com/watch?v=ADooiJ9V7jo)
+
+  </tr>
+</table>
+
 <div align="center">
   <img src="https://github.com/prodramp/DeepWorks/blob/main/MoE/images/Moe-processing.png" width="1000" />
 </div> 
