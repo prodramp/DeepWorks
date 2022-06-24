@@ -1,4 +1,4 @@
-# LIMoE (Mixture of Experts) # 
+# LIMoE: Learning Multiple Modalities with One Sparse Mixture-of-Experts Model # 
 
 LIMoE is  large-scale multimodal architecture using a sparse mixture of experts, which simultaneously processes both images and text, but uses sparsely activated experts that naturally specialize.
 
