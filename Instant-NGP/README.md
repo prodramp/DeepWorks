@@ -18,7 +18,7 @@ Unlike other NeRF implementations, Instant NeRF only takes a few minutes to trai
 </table>
 
 <div align="center">
-  <img src="https://github.com/prodramp/DeepWorks/blob/main/LIMoE/images/nerf.png" width="1000" />
+  <img src="https://github.com/prodramp/DeepWorks/blob/main/Instant-NGP/images/nerf.png?raw=true" width="1000" />
 </div> 
 
 ### Your build environment must have the following:
