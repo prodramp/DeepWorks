@@ -42,6 +42,24 @@ instant-ngp$ cmake . -B build
 instant-ngp$ cmake --build build --config RelWithDebInfo -j 16
 ```
 
+### Package must be installed in machine to build instant-ngp library
+- Python 3.9 with the following packages
+  - colmap, opencv-python, opencv-python-headless, pyside6, pyqt6
+- Ubuntu 22.02 must have the following library:
+  - ffmpeg
+  - colmap
+  - qt5
+
+### Commands for various operations
+```
+$ python scripts/colmap2nerf.py --video_in ~/Downloads/3dobj.mp4 --video_fps 10 --run_colmap --aabb_scale 4
+$ python scripts/colmap2nerf.py --video_in ~/Downloads/aashil.mp4 --video_fps 5 --run_colmap --aabb_scale 4
+$ python scripts/colmap2nerf.py --video_in ~/Downloads/avkash.mp4 --video_fps 5 --run_colmap --aabb_scale 4
+$ python scripts/colmap2nerf.py --video_in ~/work/ngp-work/jcb/jcb.mp4 --video_fps 2 --run_colmap --aabb_scale 4 --out ~/work/ngp-work/jcb/transforms.json
+$ python scripts/convert_image.py --input ~/work/ngp-work/gigapixel/tokyo-12gb.jpg  --output ~/work/ngp-work/gigapixel/tokyo_12gb.bin
+$ ./build/testbed --scene ~/work/ngp-work/gigapixel/tokyo_10mb.bin
+```
+
 ### Research Paper and Code 
 - [Research Paper](https://nvlabs.github.io/instant-ngp/assets/mueller2022instant.pdf)
 - [Introduction video](https://nvlabs.github.io/instant-ngp/assets/mueller2022instant.mp4)
