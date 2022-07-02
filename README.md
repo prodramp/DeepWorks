@@ -29,6 +29,7 @@ Join my YouTube Channel for <a href="https://www.youtube.com/channel/UClLqLPWRst
 - [LIMoE (Multimodal Mixture of Experts - Google)](https://github.com/prodramp/DeepWorks/tree/main/LIMoE)
 - [MoE (Mixture of Experts - Google)](https://github.com/prodramp/DeepWorks/tree/main/MoE)
 - [PyTorch Tutorials](https://github.com/prodramp/DeepWorks/tree/main/PyTorchTutorials)
+- [DALL-E Mini](https://github.com/prodramp/DeepWorks/tree/main/DallE-mini)
 - [GraphViz](https://github.com/prodramp/DeepWorks/tree/main/DeepViz)
 - [Graph Neural Networks](https://github.com/prodramp/DeepWorks/tree/main/GraphNeuralNetworks)
 - [Topic Modeling](https://github.com/prodramp/DeepWorks/tree/main/TopicModelling)
