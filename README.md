@@ -25,6 +25,7 @@ Join my YouTube Channel for <a href="https://www.youtube.com/channel/UClLqLPWRst
 <hr>
 
 ## ##
+- [Text to Image AI Models](https://github.com/prodramp/DeepWorks/tree/main/Text2Image-AIModels)
 - [NeRF Scene - Instant-ngp](https://github.com/prodramp/DeepWorks/tree/main/Instant-NGP)
 - [LIMoE (Multimodal Mixture of Experts - Google)](https://github.com/prodramp/DeepWorks/tree/main/LIMoE)
 - [MoE (Mixture of Experts - Google)](https://github.com/prodramp/DeepWorks/tree/main/MoE)
