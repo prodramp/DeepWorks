@@ -1,4 +1,20 @@
-# Text to Image AI Models - Walthrough # 
+# Text to Image AI Models - Various Methods different results # 
+Diffusion models have seen wide success in image generation. Before the diffusion models gained traction, Autoregressive models, GANs, VQ-VAE Transformer based methods, have all made remarkable progress in text-to-image research. DALL-E 2 has shown how advanced AI systems see and understand our world. Google Imagen has potential to surpass DALL-E through its much simpler design and impressive results to generate images from text.
+
+In this video we are going to learn various text to image generation AI methodologies and their inner workings to achieve their objective.  
+
+<table class="table table-striped table-bordered table-vcenter">
+    <tr>
+        <td align="center"><b>🔥&nbsp;YouTube Video:&nbsp;Text to Image AI Models: Different methodologies and different models, how it works?</b></td>
+    </tr>
+    <tr>
+        <td>
+            <div>
+                
+[![Text to Image AI Models: Different methodologies and different models, how it works?](https://img.youtube.com/vi/GleyzGU2iL4/0.jpg)](https://www.youtube.com/watch?v=GleyzGU2iL4)
+
+  </tr>
+</table>
 
 <div align="center">
   <img src="https://github.com/prodramp/DeepWorks/blob/main/Text2Image-AIModels/images/txt2img.png?raw=true" width="800" />
