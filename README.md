@@ -25,7 +25,7 @@ Join my YouTube Channel for <a href="https://www.youtube.com/channel/UClLqLPWRst
 <hr>
 
 ## ##
-- [Text to Image AI Models](https://github.com/prodramp/DeepWorks/tree/main/Text2Image-AIModels)
+- [Text to Image AI Models - Different methods & different results, same target](https://github.com/prodramp/DeepWorks/tree/main/Text2Image-AIModels)
 - [NeRF Scene - Instant-ngp](https://github.com/prodramp/DeepWorks/tree/main/Instant-NGP)
 - [LIMoE (Multimodal Mixture of Experts - Google)](https://github.com/prodramp/DeepWorks/tree/main/LIMoE)
 - [MoE (Mixture of Experts - Google)](https://github.com/prodramp/DeepWorks/tree/main/MoE)
@@ -43,3 +43,4 @@ Join my YouTube Channel for <a href="https://www.youtube.com/channel/UClLqLPWRst
 - [ruDALL-E: Text 2 Image 1.3B parameters open source model](https://github.com/prodramp/DeepWorks/tree/main/ruDALL-E)
 - [Deep Learning Rig - Installation Nvidia drivers, Cuda toolkits for Conda, TensorFlow and PyTorch](https://github.com/prodramp/DeepWorks/tree/main/DeepLearningRig)
 - [BCI - Brain Computer Interface](https://github.com/prodramp/DeepWorks/tree/main/BrainComputerInterface)
+- [JAX/JAXlib Installation with Cuda/cudNN](https://github.com/prodramp/DeepWorks/tree/main/JAX-CUDA-Install)
