@@ -153,6 +153,7 @@ Successfully installed jax-0.3.14 jaxlib-0.3.14+cuda11.cudnn805
 
 ## Installation Validation 
 
+```
 (dl39) avkash@DeepWorks:~$ python
 Python 3.9.12 (main, Jun  1 2022, 11:38:51) 
 [GCC 7.5.0] :: Anaconda, Inc. on linux
@@ -170,3 +171,4 @@ True
 >>> import tensorflow as tf; print(tf.config.list_physical_devices('GPU'))
 [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
 >>> 
+```
