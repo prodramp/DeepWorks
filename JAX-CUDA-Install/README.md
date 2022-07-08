@@ -3,12 +3,15 @@
 This video is all you need to install JAX with Nvidia CUDA and cudNN support in your Python 3.x installation. This video covers the following:
 
 1. Python 3.9
-2. JAX with JAXLib 0.3.14
+2. [JAX with JAXLib 0.3.14](https://github.com/google/jax)
 3. Cuda Toolkit 11.7
 4. cuDNN 8.4 Installation
 5. Conda Toolkit 11.7
 6. Torch, TensorFlow and JAX with GPU Support
 
+Resources:
+- [jax and jaxlib]
+- 
 
 <table class="table table-striped table-bordered table-vcenter">
     <tr>

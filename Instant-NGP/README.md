@@ -50,7 +50,7 @@ instant-ngp$ cmake --build build --config RelWithDebInfo -j 16
   - colmap
   - qt5
 
-### Commands for various operations
+### Commands for various operations - Generate NeRF files 
 ```
 $ python scripts/colmap2nerf.py --video_in ~/Downloads/3dobj.mp4 --video_fps 10 --run_colmap --aabb_scale 4
 $ python scripts/colmap2nerf.py --video_in ~/Downloads/aashil.mp4 --video_fps 5 --run_colmap --aabb_scale 4
@@ -58,6 +58,18 @@ $ python scripts/colmap2nerf.py --video_in ~/Downloads/avkash.mp4 --video_fps 5 
 $ python scripts/colmap2nerf.py --video_in ~/work/ngp-work/jcb/jcb.mp4 --video_fps 2 --run_colmap --aabb_scale 4 --out ~/work/ngp-work/jcb/transforms.json
 $ python scripts/convert_image.py --input ~/work/ngp-work/gigapixel/tokyo-12gb.jpg  --output ~/work/ngp-work/gigapixel/tokyo_12gb.bin
 $ ./build/testbed --scene ~/work/ngp-work/gigapixel/tokyo_10mb.bin
+```
+
+### Playing NeRF content - After NeRF content is created
+- You will see that images folder will be geneated in the same folder from where the input video was located
+- In the instant-ngp folder you will get the transform.json file as the NeRF output
+- You need to open the transform.json usingthe testbed application which is compiled above 
+- Please check the video to migrate both images and transform.json to other folder before launcing testbed
+- You can move images folder and transform.json to a desired folder and make sure the path the images is updated into the transform.json based on images folder you just have moved.
+- Finally open the transform.json using the command below with --scene paramter and path the transform.json
+
+```
+instant-ngp$ ./build/testbed --scene ~/work/[your-folder]/transform.json
 ```
 
 ### Research Paper and Code 
