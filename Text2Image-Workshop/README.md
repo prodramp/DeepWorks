@@ -11,7 +11,7 @@ You are going to follow the step by step guide to download requires pre-build mo
         <td>
             <div>
                 
-[![Build your own Text-to-Image AI application from scratch](https://img.youtube.com/vi/Yejdb9l1w2Q/0.jpg)](https://www.youtube.com/watch?v=Yejdb9l1w2Q)
+[![Build your own Text-to-Image AI application from scratch](https://img.youtube.com/vi/tUtpBu5Tef8/0.jpg)](https://www.youtube.com/watch?v=tUtpBu5Tef8)
 
   </tr>
 </table>
@@ -23,6 +23,7 @@ You are going to follow the step by step guide to download requires pre-build mo
 ## Workshop specific direct code
 - https://huggingface.co/dalle-mini/dalle-mini
 - https://huggingface.co/dalle-mini/vqgan_imagenet_f16_16384
+- https://github.com/patil-suraj/vqgan-jax
 - https://wandb.ai/dalle-mini/dalle-mini/reports/DALL-E-Mini-Explained-with-Demo--Vmlldzo4NjIxODA
 - https://github.com/borisdayma/dalle-mini/issues/256
 
