@@ -18,7 +18,7 @@
   </tr>
 </table>
 <div align="center">
-  <img src="https://github.com/prodramp/DeepWorks/blob/main/AllThings-VQGAN/images/aw.png?raw=true" width="1000" />
+  <img src="https://github.com/prodramp/DeepWorks/blob/main/AllThings-VQGAN/images/ae.png?raw=true" width="600" />
 </div> 
 
 
