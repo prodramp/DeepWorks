@@ -13,7 +13,7 @@
         <td>
             <div>
                 
-[![All Things VQ-GAN (part 1) - AutoEncoder with Lantent Space and Recontruction Error](https://img.youtube.com/vi/emnpYD6-90c/0.jpg)](https://www.youtube.com/watch?v=emnpYD6-90c)
+[![All Things VQ-GAN (part 1) - AutoEncoder with Lantent Space and Recontruction Error](https://img.youtube.com/vi/Q0YPkEbaOIY/0.jpg)](https://www.youtube.com/watch?v=Q0YPkEbaOIY)
 
   </tr>
 </table>
