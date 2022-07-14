@@ -29,13 +29,14 @@
 
 ## Part 3: All Things VQ-GAN - VQ-VAE and GAN ##
 - Vector Quantised Variational AutoEncoders (VQ-VAE)
-- Generative Adverserial Neural Networks (GANs) 
+- Generative Adversarial Neural Networks (GANs) 
   - Transformer 
-  - How code is used with Transformer Codebook
+  - How codebook is used with Transformer Codebook
 
 ###  VQGAN Implementations:
 - https://github.com/dome272/VQGAN-pytorch
 - https://github.com/CompVis/taming-transformers
+
 
 ### Research Papers
 - https://arxiv.org/pdf/2012.09841.pdf (Taming Transformers for High-Resolution Image Synthesis)
@@ -46,3 +47,7 @@
 - https://stackabuse.com/autoencoders-for-image-reconstruction-in-python-and-keras/
 - https://towardsdatascience.com/difference-between-autoencoder-ae-and-variational-autoencoder-vae-ed7be1c038f2
 
+
+### Other GitHub repos
+- https://github.com/openai/glide-text2im
+- 
