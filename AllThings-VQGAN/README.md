@@ -27,6 +27,18 @@
 - Vector Quantised VAE 
   - Codebook
 
+<table class="table table-striped table-bordered table-vcenter">
+    <tr>
+        <td align="center"><b>🔥&nbsp;YouTube Video:&nbsp; All Things VQ-GAN (part 2) - Variational AutoEncoders and VQ-VAE with Codebook Explanations</b></td>
+    </tr>
+    <tr>
+        <td>
+            <div>
+                
+[![All Things VQ-GAN (part 2) - Variational AutoEncoders and VQ-VAE with Codebook Explanations](https://img.youtube.com/vi/e82awmSJm-Y/0.jpg)](https://www.youtube.com/watch?v=e82awmSJm-Y)
+
+  </tr>
+</table>
 ## Part 3: All Things VQ-GAN - VQ-VAE and GAN ##
 - Vector Quantised Variational AutoEncoders (VQ-VAE)
 - Generative Adversarial Neural Networks (GANs) 
