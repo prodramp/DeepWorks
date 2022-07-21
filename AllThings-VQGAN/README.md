@@ -7,13 +7,13 @@
 
 <table class="table table-striped table-bordered table-vcenter">
     <tr>
-        <td align="center"><b>🔥&nbsp;YouTube Video:&nbsp; All Things VQ-GAN (part 1) - AutoEncoder with Lantent Space and Recontruction Error</b></td>
+        <td align="center"><b>🔥&nbsp;YouTube Video:&nbsp; All Things VQ-GAN (Part 1) - AutoEncoder with Lantent Space and Recontruction Error</b></td>
     </tr>
     <tr>
         <td>
             <div>
                 
-[![All Things VQ-GAN (part 1) - AutoEncoder with Lantent Space and Recontruction Error](https://img.youtube.com/vi/Q0YPkEbaOIY/0.jpg)](https://www.youtube.com/watch?v=Q0YPkEbaOIY)
+[![All Things VQ-GAN (Part 1) - AutoEncoder with Lantent Space and Recontruction Error](https://img.youtube.com/vi/Q0YPkEbaOIY/0.jpg)](https://www.youtube.com/watch?v=Q0YPkEbaOIY)
 
   </tr>
 </table>
@@ -29,21 +29,35 @@
 
 <table class="table table-striped table-bordered table-vcenter">
     <tr>
-        <td align="center"><b>🔥&nbsp;YouTube Video:&nbsp; All Things VQ-GAN (part 2) - Variational AutoEncoders and VQ-VAE with Codebook Explanations</b></td>
+        <td align="center"><b>🔥&nbsp;YouTube Video:&nbsp; All Things VQ-GAN (Part 2) - Variational AutoEncoders and VQ-VAE with Codebook Explanations</b></td>
     </tr>
     <tr>
         <td>
             <div>
                 
-[![All Things VQ-GAN (part 2) - Variational AutoEncoders and VQ-VAE with Codebook Explanations](https://img.youtube.com/vi/e82awmSJm-Y/0.jpg)](https://www.youtube.com/watch?v=e82awmSJm-Y)
+[![All Things VQ-GAN (Part 2) - Variational AutoEncoders and VQ-VAE with Codebook Explanations](https://img.youtube.com/vi/e82awmSJm-Y/0.jpg)](https://www.youtube.com/watch?v=e82awmSJm-Y)
 
   </tr>
 </table>
+
 ## Part 3: All Things VQ-GAN - VQ-VAE and GAN ##
 - Vector Quantised Variational AutoEncoders (VQ-VAE)
 - Generative Adversarial Neural Networks (GANs) 
   - Transformer 
   - How codebook is used with Transformer Codebook
+
+<table class="table table-striped table-bordered table-vcenter">
+    <tr>
+        <td align="center"><b>🔥&nbsp;YouTube Video:&nbsp; All Things VQ-GAN (Part 3) -  VQ-VAE and GAN with Transformers and Codebook interaction</b></td>
+    </tr>
+    <tr>
+        <td>
+            <div>
+                
+[![All Things VQ-GAN (Part 3) -  VQ-VAE and GAN with Transformers and Codebook interaction](https://img.youtube.com/vi/9PjazwR0q6I/0.jpg)](https://www.youtube.com/watch?v=9PjazwR0q6I)
+
+  </tr>
+</table>
 
 ###  VQGAN Implementations:
 - https://github.com/dome272/VQGAN-pytorch
