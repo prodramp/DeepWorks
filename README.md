@@ -25,7 +25,8 @@ Join my YouTube Channel for <a href="https://www.youtube.com/channel/UClLqLPWRst
 <hr>
 
 ## ##
-- [All Things Diffusion Models](https://github.com/prodramp/DeepWorks/tree/main/DiffusionModels)
+- [12 Research Papers to learn Text-2-Image Research](https://github.com/prodramp/DeepWorks/tree/main/12-Research-Papers)
+- [All Things Diffusion Models - A 2 Parts Video Series](https://github.com/prodramp/DeepWorks/tree/main/DiffusionModels)
 - [All Things VQ-GAN - A 3 part video series](https://github.com/prodramp/DeepWorks/tree/main/AllThings-VQGAN)
 - [Text to Image using AI Models Workshop - Step by Step Guide](https://github.com/prodramp/DeepWorks/tree/main/Text2Image-Workshop)
 - [Text to Image AI Models - Different methods & different results, same target](https://github.com/prodramp/DeepWorks/tree/main/Text2Image-AIModels)
