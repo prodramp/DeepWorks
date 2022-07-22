@@ -1,5 +1,18 @@
 # A collection of 12 Research Papers to learn Text-to-Images AI Research #
 
+<table class="table table-striped table-bordered table-vcenter">
+    <tr>
+        <td align="center"><b>🔥&nbsp;YouTube Video:&nbsp; 12 Must read Text to Image AI Research Papers with their code implementation</b></td>
+    </tr>
+    <tr>
+        <td>
+            <div>
+                
+[![12 Must read Text to Image AI Research Papers with their code implementation](https://img.youtube.com/vi/JCHqZbJFnuY/0.jpg)](https://www.youtube.com/watch?v=JCHqZbJFnuY)
+
+  </tr>
+</table>
+
 <div align="center">
   <img src="https://github.com/prodramp/DeepWorks/blob/main/12-Research-Papers/images/research12.png?raw=true" width="1000" />
 </div> 
