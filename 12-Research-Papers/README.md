@@ -19,21 +19,34 @@
 - 2020 (1)
   - Denoising Diffusion Probabilistic Models
     - https://arxiv.org/pdf/2006.11239.pdf
+    - https://github.com/hojonathanho/diffusion
+      - https://www.dropbox.com/sh/pm6tn31da21yrx4/AABWKZnBzIROmDjGxpB6vn6Ja
+    - https://github.com/hmdolatabadi/denoising_diffusion
+    - https://github.com/ermongroup/ddim
+    - https://github.com/acids-ircam/diffusion_models
 - 2021 (3)
   - Zero-Shot Text-to-Image Generation
     - https://arxiv.org/pdf/2102.12092.pdf
+    - https://openai.com/blog/dall-e/
+      - https://github.com/openai/DALL-E
   - Diffusion Models Beat GANs on Image Synthesis
     - https://arxiv.org/pdf/2105.05233.pdf
   - Taming Transformers for High-Resolution Image Synthesis
     - https://arxiv.org/pdf/2012.09841.pdf
+    - https://github.com/CompVis/taming-transformers
 - 2022 (5)
   - Make-A-Scene: Scene-Based Text-to-Image Generation with Human Priors
     - https://arxiv.org/pdf/2203.13131.pdf
   - GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models
     - https://arxiv.org/pdf/2112.10741.pdf
+    - https://github.com/openai/glide-text2im
   - High-Resolution Image Synthesis with Latent Diffusion Models
     - https://arxiv.org/pdf/2112.10752.pdf
   - Hierarchical Text-Conditional Image Generation with CLIP Latents
     - https://arxiv.org/pdf/2204.06125.pdf
+    - https://huggingface.co/spaces/dalle-mini/dalle-mini
+    - https://github.com/borisdayma/dalle-mini
+    - https://github.com/ai-forever/ru-dalle
   - Cross-Modal Contrastive Learning for Text-to-Image Generation
     - https://arxiv.org/pdf/2101.04702.pdf
+    - https://github.com/google-research/xmcgan_image_generation
