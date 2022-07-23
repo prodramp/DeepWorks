@@ -36,26 +36,26 @@ To change the image resolution, please ownload the diffusion_cifar10_new.json to
 
 ```
 
-
-
 ## Orignal Implementations
 - Original with Research Paper
-- https://hojonathanho.github.io/diffusion/
+- https://hojonathanho.github.io/diffusion/ (TensorFlow Implementation)
     - https://github.com/hojonathanho/diffusion
 
 ## Other Implementations 
-- https://github.com/acids-ircam/diffusion_models 
-- https://github.com/lucidrains/denoising-diffusion-pytorch
-- https://github.com/rosinality/denoising-diffusion-pytorch 
-- https://github.com/ermongroup/ddim
-- https://github.com/pesser/pytorch_diffusion
-- https://github.com/awjuliani/pytorch-diffusion
-- https://github.com/w86763777/pytorch-ddpm
+- https://github.com/hmdolatabadi/denoising_diffusion (Torch-lightening Implementation)
+- https://github.com/acids-ircam/diffusion_models (Torch-lightening + JAX Implementation)
+- https://github.com/lucidrains/denoising-diffusion-pytorch (PyTorch Implementation)
+- https://github.com/rosinality/denoising-diffusion-pytorch (PyTorch Implementation)
+- https://github.com/ermongroup/ddim (PyTorch Implementation)
+- https://github.com/pesser/pytorch_diffusion (PyTorch Implementation)
+- https://github.com/awjuliani/pytorch-diffusion (PyTorch Implementation)
+- https://github.com/w86763777/pytorch-ddpm (PyTorch Implementation)
 
 ## Awesome Diffusion Models
 - https://github.com/heejkoo/Awesome-Diffusion-Models
 
 ## Articles
+- https://cascaded-diffusion.github.io/ (Cascade Diffusion - Google Imagen)
 - https://hmdolatabadi.github.io/posts/2020/09/ddp/ 
 - https://towardsdatascience.com/diffusion-models-made-easy-8414298ce4da
 
@@ -63,6 +63,7 @@ To change the image resolution, please ownload the diffusion_cifar10_new.json to
 - https://video-diffusion.github.io/
   - https://github.com/lucidrains/video-diffusion-pytorch
 
-
 ## Research Papers 
-- 
+- https://arxiv.org/abs/2006.11239
+- https://arxiv.org/abs/1503.03585
+- https://arxiv.org/abs/1907.05600
