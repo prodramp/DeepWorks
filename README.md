@@ -46,6 +46,9 @@ Join my YouTube Channel for <a href="https://www.youtube.com/channel/UClLqLPWRst
 - [No More Blackbox Models: MLI or XAI](https://github.com/prodramp/DeepWorks/tree/main/MLI-XAI)
 - [Vision GNN: An Image is Worth Graph of Nodes](https://github.com/prodramp/DeepWorks/tree/main/ViG(VisionGNN))
 - [ruDALL-E: Text 2 Image 1.3B parameters open source model](https://github.com/prodramp/DeepWorks/tree/main/ruDALL-E)
-- [Deep Learning Rig - Installation Nvidia drivers, Cuda toolkits for Conda, TensorFlow and PyTorch](https://github.com/prodramp/DeepWorks/tree/main/DeepLearningRig)
 - [BCI - Brain Computer Interface](https://github.com/prodramp/DeepWorks/tree/main/BrainComputerInterface)
+
+## Developer Tools ##
+- [Deep Learning Rig - Installation Nvidia drivers, Cuda toolkits for Conda, TensorFlow and PyTorch](https://github.com/prodramp/DeepWorks/tree/main/DeepLearningRig)
 - [JAX/JAXlib Installation with Cuda/cudNN](https://github.com/prodramp/DeepWorks/tree/main/JAX-CUDA-Install)
+- [dlib installation with Cuda, cudNN on Ubuntu 22.04 with Conda and Python]((https://github.com/prodramp/DeepWorks/tree/main/Dlib-CUDA-Install)
