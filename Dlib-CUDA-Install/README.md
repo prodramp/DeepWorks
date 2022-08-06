@@ -2,9 +2,8 @@
 
 This video is all you need to install DLib with Nvidia CUDA and cudNN support in your Python 3.x installation created using Conda. You will also learn fixing the problem specific to following error:
 
-```
+
 ImportError: /home/avkash/anaconda3/envs/dw39/lib/python3.9/site-packages/zmq/backend/cython/../../../../.././libstdc++.so.6: version `GLIBCXX_3.4.29' not found (required by /home/avkash/.cache/torch_extensions/py39_cu113/fused/fused.so)
-```
 
 <table class="table table-striped table-bordered table-vcenter">
     <tr>
