@@ -25,11 +25,7 @@ Join my YouTube Channel for <a href="https://www.youtube.com/channel/UClLqLPWRst
 <hr>
 
 ## ##
-<<<<<<< HEAD
-- [JoJoGAN - Face Style Transfer](https://github.com/prodramp/DeepWorks/tree/main/JoJoGAN)
-=======
 - [JoJoGAN - Face Stylization (3 Videos Series on training, inference, model export and deployment) ](https://github.com/prodramp/DeepWorks/tree/main/JoJoGAN)
->>>>>>> 7cf212f6dcc28a1ae97902681f9bf9f88cfd6ecb
 - [12 Research Papers to learn Text-2-Image Research](https://github.com/prodramp/DeepWorks/tree/main/12-Research-Papers)
 - [Diffusion Models - Theory, Implemenations and Models ](https://github.com/prodramp/DeepWorks/tree/main/DiffusionModels)
 - [All Things VQ-GAN - A 3 part video series](https://github.com/prodramp/DeepWorks/tree/main/AllThings-VQGAN)
@@ -55,4 +51,4 @@ Join my YouTube Channel for <a href="https://www.youtube.com/channel/UClLqLPWRst
 ## Developer Tools ##
 - [Deep Learning Rig - Installation Nvidia drivers, Cuda toolkits for Conda, TensorFlow and PyTorch](https://github.com/prodramp/DeepWorks/tree/main/DeepLearningRig)
 - [JAX/JAXlib Installation with Cuda/cudNN](https://github.com/prodramp/DeepWorks/tree/main/JAX-CUDA-Install)
-- [dlib installation with Cuda, cudNN on Ubuntu 22.04 with Conda and Python]((https://github.com/prodramp/DeepWorks/tree/main/Dlib-CUDA-Install)
+- [dlib installation with Cuda, cudNN on Ubuntu 22.04 with Conda and Python](https://github.com/prodramp/DeepWorks/tree/main/Dlib-CUDA-Install)
