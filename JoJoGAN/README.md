@@ -1,7 +1,5 @@
 # JoJoGAN: OneShot Face Stylization  # 
 
-<<<<<<< HEAD
-=======
 <table class="table table-striped table-bordered table-vcenter">
     <tr>
         <td align="center"><b>🔥&nbsp;Part 1/3:&nbsp; One-shot Face Stylization with JoJoGAN - In-depth face style transfer tutorial</b></td>
@@ -41,7 +39,6 @@
 </tr>
 </table>
 
->>>>>>> 7cf212f6dcc28a1ae97902681f9bf9f88cfd6ecb
 ### Why JoJoGAN
 - JoJoGAN needs just one reference and as little as 30 seconds of training time. 
 - JoJoGAN can use extreme style references (say, animal faces) successfully. Furthermore, one can control what aspects of the style are used and how much of the style is applied. 
