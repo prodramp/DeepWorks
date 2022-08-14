@@ -1,5 +1,12 @@
 # Bloom - BigScience  Language Model #
 
+This hands-on programming tutorial with step by step implementation of Bloom Large Language Text Generation Model will guide you building your own text generation application in Google Colab environment. 
+
+You will also learn to solve 3 different problems while working on this tutorial:
+
+- RuntimeError: Expected all tensors to be on the same device, but found at least two devices, cpu and cuda:0! (when checking argument for argument index in method wrapper__index_select)
+- AttributeError: 'BaseModelOutputWithPastAndCrossAttentions' object has no attribute 'logits'
+- GPU Memory Exception while loading Bloom models with tokenizer
 
 ## Resource ## 
 Latest Bloom LLM Model (176B Paramters):
