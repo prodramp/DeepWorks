@@ -8,6 +8,19 @@ You will also learn to solve 3 different problems while working on this tutorial
 - AttributeError: 'BaseModelOutputWithPastAndCrossAttentions' object has no attribute 'logits'
 - GPU Memory Exception while loading Bloom models with tokenizer
 
+<table class="table table-striped table-bordered table-vcenter">
+    <tr>
+        <td align="center"><b>🔥&nbsp;Bloom (Text Generation Large Language Model - LLM):&nbsp; Step by step implementation </b></td>
+    </tr>
+    <tr>
+        <td>
+            <div>                
+
+[![Bloom (Text Generation Large Language Model - LLM): Step by step implementation](https://img.youtube.com/vi/HOiBaH9gAlU/0.jpg)](https://www.youtube.com/watch?v=HOiBaH9gAlU)
+
+</tr>
+</table>
+
 ## Resource ## 
 Latest Bloom LLM Model (176B Paramters):
 - https://huggingface.co/bigscience/bloom-1b7

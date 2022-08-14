@@ -25,6 +25,7 @@ Join my YouTube Channel for <a href="https://www.youtube.com/channel/UClLqLPWRst
 <hr>
 
 ## ##
+- [Bloom 176B Parameters - Large Language Model ](https://github.com/prodramp/DeepWorks/tree/main/Bloom-BigScience)
 - [JoJoGAN - Face Stylization (3 Videos Series on training, inference, model export and deployment) ](https://github.com/prodramp/DeepWorks/tree/main/JoJoGAN)
 - [12 Research Papers to learn Text-2-Image Research](https://github.com/prodramp/DeepWorks/tree/main/12-Research-Papers)
 - [Diffusion Models - Theory, Implemenations and Models ](https://github.com/prodramp/DeepWorks/tree/main/DiffusionModels)
