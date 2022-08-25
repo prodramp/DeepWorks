@@ -1,6 +1,19 @@
 # EG3D - Efficient Geometry-aware 3D Generative Adversarial Networks #
 Unsupervised generation of high-quality multi-view-consistent images and 3D shapes using only collections of single-view 2D photographs has been a long-standing challenge. Existing 3D GANs are either compute-intensive or make approximations that are not 3D-consistent; the former limits quality and resolution of the generated images and the latter adversely affects multi-view consistency and shape quality. EG3D techniques improves the computational efficiency and image quality of 3D GANs without overly relying on these approximations.
 
+<table class="table table-striped table-bordered table-vcenter">
+    <tr>
+        <td align="center"><b>🔥&nbsp;EG3D:&nbsp;Your hands-on guide to Efficient Geometry-aware 3D Generative Adversarial Networks </b></td>
+    </tr>
+    <tr>
+        <td>
+            <div>
+                
+[![Your hands-on guide to Efficient Geometry-aware 3D Generative Adversarial Networks (EG3D)](https://img.youtube.com/vi/7tG37T6bsBw/0.jpg)](https://www.youtube.com/watch?v=7tG37T6bsBw)
+
+  </tr>
+</table>
+
 
 ## Resources:
 - https://nvlabs.github.io/eg3d/
