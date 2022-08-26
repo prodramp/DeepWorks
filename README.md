@@ -25,6 +25,7 @@ Join my YouTube Channel for <a href="https://www.youtube.com/channel/UClLqLPWRst
 <hr>
 
 ## ##
+- [Stable Diffusion - Text-to-Image OpenSource AI Model](https://github.com/prodramp/DeepWorks/tree/main/Stable-Diffusion)
 - [Bloom 176B Parameters - Large Language Model ](https://github.com/prodramp/DeepWorks/tree/main/Bloom-BigScience)
 - [TorchStudio - Import Dataset, Train and Save Models](https://github.com/prodramp/DeepWorks/tree/main/TorchStudio)
 - [EG3D - Efficient Geometry-aware 3D Generative Adversarial Networks](https://github.com/prodramp/DeepWorks/tree/main/EG3D)

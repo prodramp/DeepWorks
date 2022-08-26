@@ -6,13 +6,13 @@ With its 860M UNet and 123M text encoder, the model is relatively lightweight an
 
 <table class="table table-striped table-bordered table-vcenter">
     <tr>
-        <td align="center"><b>🔥&nbsp;Stable Diffusion:&nbsp; Getting Started with Stable Diffusion Model at Hugging Face, Google Colab with gradio</b></td>
+        <td align="center"><b>🔥&nbsp;Stable Diffusion:&nbsp; Step by Step guide to utilize Stable Diffusion text-to-image AI model in colab python app</b></td>
     </tr>
     <tr>
         <td>
             <div>
                 
-[![Getting Started with Stable Diffusion Model at Hugging Face, Google Colab with gradio](https://img.youtube.com/vi/dduGEXv31jI/0.jpg)](https://www.youtube.com/watch?v=dduGEXv31jI)
+[![Step by Step guide to utilize Stable Diffusion text-to-image AI model in colab python app](https://img.youtube.com/vi/oDAVk8QFnWg/0.jpg)](https://www.youtube.com/watch?v=oDAVk8QFnWg)
 
   </tr>
 </table>

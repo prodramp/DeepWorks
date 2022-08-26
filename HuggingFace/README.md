@@ -18,8 +18,11 @@
 - https://github.com/huggingface/transformers
 
 
-## Various other 3D face constructions from Image resources
+## Various other Hugging Face resources
 - https://huggingface.co/models
 - https://huggingface.co/spaces
 - https://huggingface.co/docs
+- https://huggingface.co/spaces/stabilityai/stable-diffusion/blob/main/app.py
+- https://huggingface.co/spaces/stabilityai/stable-diffusion
+
 
