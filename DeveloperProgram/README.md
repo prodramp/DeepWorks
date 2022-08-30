@@ -2,9 +2,52 @@
 
 ## Data Processing course in Python for budding Python Developers ##
 
-- Part 0: Course Introduction (This video)
-- Part 1: Data Loading, Reading, and value based Filtering
-- Part 2: Data Filtering by Type with Inline coding 
+## Part 0:  Data Processing Fundamentals: Course Introduction  (Part 1/4)##
+
+<table class="table table-striped table-bordered table-vcenter">
+    <tr>
+        <td align="center"><b>🔥&nbsp;Part 1/4:&nbsp; Data Processing Fundamentals: Course Introduction </b></td>
+    </tr>
+    <tr>
+        <td>
+            <div>
+                
+[![Data Processing Fundamentals: Course Introduction ](https://img.youtube.com/vi/0aw2aFxDmxM/0.jpg)](https://www.youtube.com/watch?v=0aw2aFxDmxM)
+
+  </tr>
+</table>
+
+
+## Part 1:  Data Processing Fundamentals: Data Access and Filtering  (Part 1/4)##
+
+
+<table class="table table-striped table-bordered table-vcenter">
+    <tr>
+        <td align="center"><b>🔥&nbsp;Part 1/4:&nbsp; Data Processing Fundamentals: Data Access and Filtering </b></td>
+    </tr>
+    <tr>
+        <td>
+            <div>
+                
+[![Data Processing Fundamentals: Data Access and Filtering ](https://img.youtube.com/vi/660nOAR2vOM/0.jpg)](https://www.youtube.com/watch?v=660nOAR2vOM)
+
+  </tr>
+</table>
+
+## Part 2:  Data Processing Fundamentals: Extended Filtering with multiple datasets  (Part 2/4) ##
+
+<table class="table table-striped table-bordered table-vcenter">
+    <tr>
+        <td align="center"><b>🔥&nbsp;Part 2/4:&nbsp; Data Processing Fundamentals: Extended Filtering with multiple datasets</b></td>
+    </tr>
+    <tr>
+        <td>
+            <div>
+                
+[![Data Processing Fundamentals: Extended Filtering with multiple datasets](https://img.youtube.com/vi/uJES3DLg5ss/0.jpg)](https://www.youtube.com/watch?v=uJES3DLg5ss)
+
+  </tr>
+</table>
+
 - Part 3: Writing Smart Python code through classes
 - Part 4: Adding GUI to Python Data Application
-- 

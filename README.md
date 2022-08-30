@@ -78,3 +78,9 @@ Join my YouTube Channel for <a href="https://www.youtube.com/channel/UClLqLPWRst
 - https://github.com/eriklindernoren/ML-From-Scratch
 - https://github.com/kwea123/nerf_pl#blender
 - https://github.com/bmild/nerf
+- https://github.com/musikalkemist/pytorchforaudio
+- https://medium.com/@oleguer.canal/the-attention-mechanism-zoo-309c05768ed9
+- https://towardsdatascience.com/audio-deep-learning-made-simple-part-1-state-of-the-art-techniques-da1d3dff2504
+- https://github.com/RizwanMunawar/yolov7-pose-estimation
+- https://github.com/ultralytics/yolov5
+- https://www.augmentedstartups.com/yolox-pro-computer-vision-dashboard
