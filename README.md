@@ -24,7 +24,11 @@ Join my YouTube Channel for <a href="https://www.youtube.com/channel/UClLqLPWRst
 <br>
 <hr>
 
-## ##
+## Developer Program ##
+- [Developer Program](https://github.com/prodramp/DeepWorks/tree/main/DeveloperProgram)
+  - [Data Processing course in Python for budding Python Developers - 4 Parts](https://github.com/prodramp/DeepWorks/tree/main/DeveloperProgram)
+
+## Deep Learning and Artificial Intelligence ##
 - [Stable Diffusion - Text-to-Image OpenSource AI Model](https://github.com/prodramp/DeepWorks/tree/main/Stable-Diffusion)
 - [Bloom 176B Parameters - Large Language Model ](https://github.com/prodramp/DeepWorks/tree/main/Bloom-BigScience)
 - [TorchStudio - Import Dataset, Train and Save Models](https://github.com/prodramp/DeepWorks/tree/main/TorchStudio)

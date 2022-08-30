@@ -2,7 +2,7 @@
 
 ## Data Processing course in Python for budding Python Developers ##
 
-## Part 0:  Data Processing Fundamentals: Course Introduction  (Part 1/4)##
+### Part 0:  Data Processing Fundamentals: Course Introduction  (Part 1/4) ###
 
 <table class="table table-striped table-bordered table-vcenter">
     <tr>
@@ -18,7 +18,7 @@
 </table>
 
 
-## Part 1:  Data Processing Fundamentals: Data Access and Filtering  (Part 1/4)##
+### Part 1:  Data Processing Fundamentals: Data Access and Filtering  (Part 1/4)###
 
 
 <table class="table table-striped table-bordered table-vcenter">
@@ -34,7 +34,7 @@
   </tr>
 </table>
 
-## Part 2:  Data Processing Fundamentals: Extended Filtering with multiple datasets  (Part 2/4) ##
+### Part 2:  Data Processing Fundamentals: Extended Filtering with multiple datasets  (Part 2/4) ###
 
 <table class="table table-striped table-bordered table-vcenter">
     <tr>
@@ -48,6 +48,8 @@
 
   </tr>
 </table>
+
+### Comming Soon:
 
 - Part 3: Writing Smart Python code through classes
 - Part 4: Adding GUI to Python Data Application
