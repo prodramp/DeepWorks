@@ -49,7 +49,22 @@
   </tr>
 </table>
 
+### Part 3a:  Data Processing Fundamentals:  Writing smarter python code with classes (Part 3a/4) ###
+
+<table class="table table-striped table-bordered table-vcenter">
+    <tr>
+        <td align="center"><b>🔥&nbsp;Part 3a/4:&nbsp; Data Processing Fundamentals: Writing smarter python code with classes</b></td>
+    </tr>
+    <tr>
+        <td>
+            <div>
+                
+[![Data Processing Fundamentals: Writing smarter python code with classes](https://img.youtube.com/vi/7A6VZYuIKAU/0.jpg)](https://www.youtube.com/watch?v=7A6VZYuIKAU)
+
+  </tr>
+</table>
+
 ### Comming Soon:
 
-- Part 3: Writing Smart Python code through classes
+- Part 3b: Writing Smart Python code through classes
 - Part 4: Adding GUI to Python Data Application
