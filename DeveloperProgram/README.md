@@ -78,6 +78,6 @@
 
   </tr>
 </table>
-### Comming Soon:
 
-- Part 4: Adding GUI to Python Data Application
+### Part 4: Adding GUI to Python Data Application ###
+
