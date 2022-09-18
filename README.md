@@ -1,4 +1,4 @@
-# DeepWorks
+# DeepWorks By Avkash Chauhan (@avkashchauhan) #
 
 
 <div align="center">
@@ -26,7 +26,10 @@ Join my YouTube Channel for <a href="https://www.youtube.com/channel/UClLqLPWRst
 
 ## Developer Program ##
 - [Developer Program](https://github.com/prodramp/DeepWorks/tree/main/DeveloperProgram)
-  - [Data Processing course in Python for budding Python Developers - 4 Parts](https://github.com/prodramp/DeepWorks/tree/main/DeveloperProgram)
+  - [Data Processing course in Python for budding Python Developers - 4 Parts](https://github.com/prodramp/DeepWorks/tree/main/DeveloperProgram/PythonDataProcessing)
+  - [Developing Gradio Based Tabbed UI](https://github.com/prodramp/DeepWorks/tree/main/DeveloperProgram/GradioTabbedUI)
+  - [Creating Python Module, Packaging it as Wheel Package, Delivery and Istallation](https://github.com/prodramp/DeepWorks/tree/main/DeveloperProgram/PythonModule)
+
 
 ## Deep Learning and Artificial Intelligence ##
 - [Stable Diffusion - Text-to-Image OpenSource AI Model](https://github.com/prodramp/DeepWorks/tree/main/Stable-Diffusion)
