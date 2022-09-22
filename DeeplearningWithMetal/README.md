@@ -1,6 +1,7 @@
 # TensorFlow and PyTorch on Apple Metal Hardware Accelerated Graphics # 
 
-Installation Commands
+
+## Installation Commands
 
 Step 0: Download Miniforge3-MacOSX-arm64.sh from URL below:
 
@@ -35,7 +36,7 @@ $ python -m pip install tensorflow-metal
 ```
 
 
-Test or Validation:
+## Test or Validation:
 
 ```
 > import torch
@@ -61,3 +62,11 @@ maxCacheSize: 5.33 GB
 [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
 
 ```
+
+## Resources:
+
+- https://developer.apple.com/metal/tensorflow-plugin/
+- https://developer.apple.com/metal/
+- https://blog.tensorflow.org/2021/06/pluggabledevice-device-plugins-for-TensorFlow.html
+- https://pytorch.org/blog/introducing-accelerated-pytorch-training-on-mac/
+- https://www.tensorflow.org/api_docs/python/tf/config/PhysicalDevice
