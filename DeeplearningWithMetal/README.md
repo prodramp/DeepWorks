@@ -35,6 +35,18 @@ Step 3: Install tensorflow-metal plugin
 $ python -m pip install tensorflow-metal
 ```
 
+Step 4: Install tensorflow-addons package (Optional)
+
+```
+$ python -m pip install tensorflow-addons
+```
+
+Step 5: Install PyTorch package
+
+```
+$ python -m pip install torch
+```
+
 
 ## Test or Validation:
 
