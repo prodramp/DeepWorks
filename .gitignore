@@ -11,4 +11,5 @@ yarn.lock
 package-lock.json
 *.jar
 __pycache__
+.h5
 
