@@ -1,0 +1,175 @@
+{
+    "all_images": [
+        {
+            "prompt": "cute girl riding horse on a futuristic landscape",
+            "photo_style": "None",
+            "artist_name": "None",
+            "art_styles": [],
+            "color_choice": "None",
+            "design_choice": "None",
+            "output_choice": "None",
+            "image_file_name": "art_image_1.png"
+        },
+        {
+            "prompt": "cute cat riding panda on a futuristic landscape with ocean and trees",
+            "photo_style": "None",
+            "artist_name": "None",
+            "art_styles": [],
+            "color_choice": "None",
+            "design_choice": "None",
+            "output_choice": "None",
+            "image_file_name": "art_image_2.png"
+        },
+        {
+            "prompt": "futuristic landscape similar to pandora, painting",
+            "photo_style": "painting",
+            "artist_name": "None",
+            "art_styles": [],
+            "color_choice": "None",
+            "design_choice": "None",
+            "output_choice": "None",
+            "image_file_name": "art_image_3.png"
+        },
+        {
+            "prompt": "futuristic landscape similar to pandorafinal fantasy",
+            "photo_style": "None",
+            "artist_name": "None",
+            "art_styles": [
+                "final fantasy"
+            ],
+            "color_choice": "None",
+            "design_choice": "None",
+            "output_choice": "None",
+            "image_file_name": "art_image_4.png"
+        },
+        {
+            "prompt": "futuristic landscape similar to pandora",
+            "photo_style": "None",
+            "artist_name": "None",
+            "art_styles": [
+                "3d style",
+                "disney style"
+            ],
+            "color_choice": "None",
+            "design_choice": "None",
+            "output_choice": "None",
+            "image_file_name": "art_image_5.png"
+        },
+        {
+            "prompt": "beautiful green landscape with trees and trains on a futuristic planet",
+            "photo_style": "None",
+            "artist_name": "None",
+            "art_styles": [
+                "None"
+            ],
+            "color_choice": "None",
+            "design_choice": "None",
+            "output_choice": "None",
+            "image_file_name": "art_image_6.png"
+        },
+        {
+            "prompt": "beautiful green landscape with trees and trains",
+            "photo_style": "None",
+            "artist_name": "None",
+            "art_styles": [
+                "None"
+            ],
+            "color_choice": "None",
+            "design_choice": "None",
+            "output_choice": "None",
+            "image_file_name": "art_image_7.png"
+        },
+        {
+            "prompt": "beautiful green landscape with trees and trainsconcept art",
+            "photo_style": "None",
+            "artist_name": "None",
+            "art_styles": [
+                "concept art"
+            ],
+            "color_choice": "None",
+            "design_choice": "None",
+            "output_choice": "None",
+            "image_file_name": "art_image_8.png"
+        },
+        {
+            "prompt": "beautiful green landscape with trees and trains",
+            "photo_style": "None",
+            "artist_name": "None",
+            "art_styles": [
+                "concept art",
+                "Whimsical Art",
+                "renaissance style",
+                "3d style",
+                "dark fantasy",
+                "design concept"
+            ],
+            "color_choice": "None",
+            "design_choice": "None",
+            "output_choice": "None",
+            "image_file_name": "art_image_9.png"
+        },
+        {
+            "prompt": "a bear is riding a motorcycle on a futuristic landscape",
+            "photo_style": "None",
+            "artist_name": "None",
+            "art_styles": [],
+            "color_choice": "None",
+            "design_choice": "None",
+            "output_choice": "None",
+            "image_file_name": "art_image_10.png"
+        },
+        {
+            "prompt": "a bear is riding a motorcycle on a futuristic landscape, style by Pablo Picasso",
+            "photo_style": "None",
+            "artist_name": "Pablo Picasso",
+            "art_styles": [],
+            "color_choice": "None",
+            "design_choice": "None",
+            "output_choice": "None",
+            "image_file_name": "art_image_11.png"
+        },
+        {
+            "prompt": "CREATE A FUTURISTIC LANDSCAPE SIMILAR TO PANDORA WITH OCEAN, PLANETS AND GREEN TREES, realistic",
+            "photo_style": "realistic",
+            "artist_name": "None",
+            "art_styles": [
+                "final fantasy",
+                "futuristic art"
+            ],
+            "color_choice": "None",
+            "design_choice": "None",
+            "output_choice": "None",
+            "image_file_name": "art_image_12.png"
+        },
+        {
+            "prompt": "CREATE A FUTURISTIC LANDSCAPE SIMILAR TO PANDORA WITH OCEAN, PLANETS AND GREEN TREES, illustration",
+            "photo_style": "illustration",
+            "artist_name": "None",
+            "art_styles": [
+                "concept art",
+                "digital art",
+                "trendy art",
+                "3d style"
+            ],
+            "color_choice": "None",
+            "design_choice": "None",
+            "output_choice": "None",
+            "image_file_name": "art_image_13.png"
+        },
+        {
+            "prompt": "CREATE A FUTURISTIC LANDSCAPE SIMILAR TO PANDORA WITH OCEAN, PLANETS AND GREEN TREES, illustration, golden, style by Michelangelo",
+            "photo_style": "illustration",
+            "artist_name": "Michelangelo",
+            "art_styles": [
+                "concept art",
+                "digital art",
+                "trendy art",
+                "3d style"
+            ],
+            "color_choice": "golden",
+            "design_choice": "None",
+            "output_choice": "None",
+            "image_file_name": "art_image_14.png"
+        }
+    ]
+}

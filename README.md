@@ -32,6 +32,7 @@ Join my YouTube Channel for <a href="https://www.youtube.com/channel/UClLqLPWRst
 
 
 ## Deep Learning and Artificial Intelligence ##
+- [Stable Diffusion GUI - Gradio UI for Text-to-Image TensorFlow Models](https://github.com/prodramp/DeepWorks/tree/main/Stable-Diffusion-TF-WebUI)
 - [Stable Diffusion - Text-to-Image OpenSource AI Model](https://github.com/prodramp/DeepWorks/tree/main/Stable-Diffusion)
 - [Bloom 176B Parameters - Large Language Model ](https://github.com/prodramp/DeepWorks/tree/main/Bloom-BigScience)
 - [TorchStudio - Import Dataset, Train and Save Models](https://github.com/prodramp/DeepWorks/tree/main/TorchStudio)
@@ -64,6 +65,7 @@ Join my YouTube Channel for <a href="https://www.youtube.com/channel/UClLqLPWRst
 - [Deep Learning Rig - Installation Nvidia drivers, Cuda toolkits for Conda, TensorFlow and PyTorch](https://github.com/prodramp/DeepWorks/tree/main/DeepLearningRig)
 - [JAX/JAXlib Installation with Cuda/cudNN](https://github.com/prodramp/DeepWorks/tree/main/JAX-CUDA-Install)
 - [dlib installation with Cuda, cudNN on Ubuntu 22.04 with Conda and Python](https://github.com/prodramp/DeepWorks/tree/main/Dlib-CUDA-Install)
+- [Apple M1 with Metal GPU for Deep Learning](https://github.com/prodramp/DeepWorks/tree/main/DeeplearningWithMetal)
 
 ## Contact
 

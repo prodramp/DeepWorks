@@ -1,0 +1,11 @@
+You need to download the models and save here.
+
+For Tensorflow models there models are saved at your home folder ~/.keras/datasets location
+
+TensorFlow models
+ 
+- decoder.h5 
+- diffusion_model.h5 
+- text_encoder.h5
+
+ 
