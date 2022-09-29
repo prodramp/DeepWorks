@@ -16,21 +16,3 @@ TF Model Source Code: https://github.com/divamgupta/stable-diffusion-tensorflow
 </div> 
 
 
-## GitHub source for this project
-- https://github.com/divamgupta/stable-diffusion-tensorflow
-- https://github.com/CompVis/stable-diffusion
-- https://huggingface.co/spaces/stabilityai/stable-diffusion
-
-
-## GitHub Source Code  ##
-- https://github.com/AUTOMATIC1111/stable-diffusion-webui
-- https://github.com/cmdr2/stable-diffusion-ui
-- https://huggingface.co/spaces/dalle-mini/dalle-mini
-
-## Other - Similar Projects
-- https://imagen.research.google/
-- https://openai.com/dall-e-2/
-- https://www.craiyon.com/
-- https://rudalle.ru/en/
-- https://www.midjourney.com/home/
-- 

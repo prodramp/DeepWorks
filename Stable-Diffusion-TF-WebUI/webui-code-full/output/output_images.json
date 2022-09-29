@@ -190,6 +190,26 @@
             "design_choice": "None",
             "output_choice": "None",
             "image_file_name": "art_image_16.png"
+        },
+        {
+            "prompt": "an astronaut is driving a jeep on moon",
+            "photo_style": "None",
+            "artist_name": "None",
+            "art_styles": [],
+            "color_choice": "None",
+            "design_choice": "None",
+            "output_choice": "None",
+            "image_file_name": "art_image_17.png"
+        },
+        {
+            "prompt": "an astronaut is driving a jeep on moon",
+            "photo_style": "None",
+            "artist_name": "None",
+            "art_styles": [],
+            "color_choice": "None",
+            "design_choice": "None",
+            "output_choice": "None",
+            "image_file_name": "art_image_18.png"
         }
     ]
 }
