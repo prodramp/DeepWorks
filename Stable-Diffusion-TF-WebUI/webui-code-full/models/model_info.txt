@@ -3,9 +3,13 @@ You need to download the models and save here.
 For Tensorflow models there models are saved at your home folder ~/.keras/datasets location
 
 TensorFlow models
- 
-- decoder.h5 
-- diffusion_model.h5 
-- text_encoder.h5
+-------------------
+- decoder.h5            (189M)
+- diffusion_model.h5    (3.2G)
+- text_encoder.h5       (470M)
+
+# $ wget https://huggingface.co/fchollet/stable-diffusion/resolve/main/text_encoder.h5
+# $ wget https://huggingface.co/fchollet/stable-diffusion/resolve/main/diffusion_model.h5
+# $ wget https://huggingface.co/fchollet/stable-diffusion/resolve/main/decoder.h5
 
  

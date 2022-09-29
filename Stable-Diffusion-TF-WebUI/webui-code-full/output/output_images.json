@@ -170,6 +170,26 @@
             "design_choice": "None",
             "output_choice": "None",
             "image_file_name": "art_image_14.png"
+        },
+        {
+            "prompt": "a rabbit in eating ice-cream on a sandy planet",
+            "photo_style": "None",
+            "artist_name": "None",
+            "art_styles": [],
+            "color_choice": "None",
+            "design_choice": "None",
+            "output_choice": "None",
+            "image_file_name": "art_image_15.png"
+        },
+        {
+            "prompt": "a rabbit in eating ice-cream on a sandy planet with crab and horse",
+            "photo_style": "None",
+            "artist_name": "None",
+            "art_styles": [],
+            "color_choice": "None",
+            "design_choice": "None",
+            "output_choice": "None",
+            "image_file_name": "art_image_16.png"
         }
     ]
 }

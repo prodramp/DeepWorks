@@ -12,4 +12,7 @@ package-lock.json
 *.jar
 __pycache__
 .h5
+Stable-Diffusion-TF-WebUI/webui-code-full/output/*.png
+Stable-Diffusion-TF-WebUI/webui-code-full/models/*.h5
+Stable-Diffusion-TF-WebUI/webui-code-full/*.png
 
