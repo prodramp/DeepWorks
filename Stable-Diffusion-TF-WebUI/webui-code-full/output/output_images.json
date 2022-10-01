@@ -210,6 +210,103 @@
             "design_choice": "None",
             "output_choice": "None",
             "image_file_name": "art_image_18.png"
+        },
+        {
+            "prompt": "an astronaut is driving a motorcycle on moon",
+            "photo_style": "None",
+            "artist_name": "None",
+            "art_styles": [],
+            "color_choice": "None",
+            "design_choice": "None",
+            "output_choice": "None",
+            "image_file_name": "art_image_19.png"
+        },
+        {
+            "prompt": "an astronaut is driving a motorcycle on moon, illustrationconcept art",
+            "photo_style": "illustration",
+            "artist_name": "None",
+            "art_styles": [
+                "concept art"
+            ],
+            "color_choice": "None",
+            "design_choice": "None",
+            "output_choice": "None",
+            "image_file_name": "art_image_20.png"
+        },
+        {
+            "prompt": "an astronaut is driving a motorcycle on moon, illustrationconcept art, style by Leonardo da Vinci",
+            "photo_style": "illustration",
+            "artist_name": "Leonardo da Vinci",
+            "art_styles": [
+                "concept art"
+            ],
+            "color_choice": "None",
+            "design_choice": "None",
+            "output_choice": "None",
+            "image_file_name": "art_image_21.png"
+        },
+        {
+            "prompt": "an astronaut is driving a motorcycle on moon, illustrationconcept art, style by vincent van gogh",
+            "photo_style": "illustration",
+            "artist_name": "vincent van gogh",
+            "art_styles": [
+                "concept art"
+            ],
+            "color_choice": "None",
+            "design_choice": "None",
+            "output_choice": "None",
+            "image_file_name": "art_image_22.png"
+        },
+        {
+            "prompt": "an astronaut is driving a motorcycle on moon, painting, golden, sharp",
+            "photo_style": "painting",
+            "artist_name": "None",
+            "art_styles": [
+                "funny",
+                "3d style"
+            ],
+            "color_choice": "golden",
+            "design_choice": "sharp",
+            "output_choice": "None",
+            "image_file_name": "art_image_23.png"
+        },
+        {
+            "prompt": "AN ASTRONAUT IS RIDING A HORSE ON MOON",
+            "photo_style": "None",
+            "artist_name": "None",
+            "art_styles": [
+                "None"
+            ],
+            "color_choice": "None",
+            "design_choice": "None",
+            "output_choice": "None",
+            "image_file_name": "art_image_24.png"
+        },
+        {
+            "prompt": "AN ASTRONAUT IS RIDING A HORSE ON a futuristic planet similar to pandora",
+            "photo_style": "None",
+            "artist_name": "None",
+            "art_styles": [
+                "None"
+            ],
+            "color_choice": "None",
+            "design_choice": "None",
+            "output_choice": "None",
+            "image_file_name": "art_image_25.png"
+        },
+        {
+            "prompt": "AN ASTRONAUT IS RIDING A HORSE ON a futuristic planet similar to pandora",
+            "photo_style": "None",
+            "artist_name": "None",
+            "art_styles": [
+                "futuristic art",
+                "animation",
+                "final fantasy"
+            ],
+            "color_choice": "None",
+            "design_choice": "None",
+            "output_choice": "None",
+            "image_file_name": "art_image_26.png"
         }
     ]
 }
