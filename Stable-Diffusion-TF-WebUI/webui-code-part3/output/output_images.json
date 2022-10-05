@@ -1,0 +1,68 @@
+{
+    "images": [
+        {
+            "prompt": "rocket is flying on a futuristic planet with trees and islands",
+            "art_styles_choices": [],
+            "artist_name_opt": "None",
+            "photo_style_opt": "None",
+            "design_choice_opt": "None",
+            "color_choice_opt": "None",
+            "saved_image_name": "art_image_1.png"
+        },
+        {
+            "prompt": "A golden rocket is flying on a futuristic planet with rocks",
+            "art_styles_choices": [],
+            "artist_name_opt": "None",
+            "photo_style_opt": "None",
+            "design_choice_opt": "None",
+            "color_choice_opt": "None",
+            "saved_image_name": "art_image_2.png"
+        },
+        {
+            "prompt": "a cute dog and turtle playing in the sand",
+            "art_styles_choices": [
+                "disney style",
+                "animation",
+                "3d style",
+                "game character"
+            ],
+            "artist_name_opt": "None",
+            "photo_style_opt": "None",
+            "design_choice_opt": "sharp",
+            "color_choice_opt": "blue",
+            "saved_image_name": "art_image_3.png"
+        },
+        {
+            "prompt": "a cute dog and turtle playing in the sand",
+            "art_styles_choices": [
+                "disney style",
+                "animation",
+                "3d style",
+                "game character",
+                "design concept",
+                "character concept"
+            ],
+            "artist_name_opt": "Rembrandt",
+            "photo_style_opt": "None",
+            "design_choice_opt": "sharp",
+            "color_choice_opt": "blue",
+            "saved_image_name": "art_image_4.png"
+        },
+        {
+            "prompt": "a cute dog and turtle playing in the sand",
+            "art_styles_choices": [
+                "disney style",
+                "animation",
+                "3d style",
+                "game character",
+                "design concept",
+                "character concept"
+            ],
+            "artist_name_opt": "vincent van gogh",
+            "photo_style_opt": "None",
+            "design_choice_opt": "sharp",
+            "color_choice_opt": "blue",
+            "saved_image_name": "art_image_5.png"
+        }
+    ]
+}
