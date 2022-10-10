@@ -232,5 +232,5 @@ class ProcessPrompt(object):
                 )
 
     def launch_ui(self):
-        self.sd_ui_obj.launch()
+        self.sd_ui_obj.launch(server_port=7861)
 

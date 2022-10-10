@@ -63,6 +63,35 @@
             "design_choice_opt": "sharp",
             "color_choice_opt": "blue",
             "saved_image_name": "art_image_5.png"
+        },
+        {
+            "prompt": "sunflower with rose and tulip",
+            "art_styles_choices": [],
+            "artist_name_opt": "None",
+            "photo_style_opt": "None",
+            "design_choice_opt": "None",
+            "color_choice_opt": "None",
+            "saved_image_name": "art_image_6.png"
+        },
+        {
+            "prompt": "sunflower with rose and tulip",
+            "art_styles_choices": [],
+            "artist_name_opt": "Pablo Picasso",
+            "photo_style_opt": "None",
+            "design_choice_opt": "None",
+            "color_choice_opt": "None",
+            "saved_image_name": "art_image_7.png"
+        },
+        {
+            "prompt": "sunflower with rose and tulip",
+            "art_styles_choices": [
+                "3d style"
+            ],
+            "artist_name_opt": "Michelangelo",
+            "photo_style_opt": "hyperealistic",
+            "design_choice_opt": "None",
+            "color_choice_opt": "None",
+            "saved_image_name": "art_image_8.png"
         }
     ]
 }
