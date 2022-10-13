@@ -4,13 +4,13 @@ Whisper is a general-purpose speech recognition model. It is trained on a large 
 
 <table class="table table-striped table-bordered table-vcenter">
     <tr>
-        <td align="center"><b>🔥&nbsp;OpenAI Whisper:&nbsp; Audio and Video Translation and Trascribe at Command Line</b></td>
+        <td align="center"><b>🔥&nbsp;OpenAI Whisper - Translate and transcribe your video and audio at command line</b></td>
     </tr>
     <tr>
         <td>
             <div>
                 
-[![Audio and Video Translation and Trascribe at Command Line](https://img.youtube.com/vi/y5E38ajaZyg/0.jpg)](https://www.youtube.com/watch?v=y5E38ajaZyg)
+[![OpenAI Whisper - Translate and transcribe your video and audio at command line](https://img.youtube.com/vi/fYmufIpngKE/0.jpg)](https://www.youtube.com/watch?v=fYmufIpngKE)
 
   </tr>
 </table>
