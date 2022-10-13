@@ -32,6 +32,7 @@ Join my YouTube Channel for <a href="https://www.youtube.com/channel/UClLqLPWRst
 
 
 ## Deep Learning and Artificial Intelligence ##
+- [OpenAI Whisper - Audio/Video to Text(Transcribe/Translate)](https://github.com/prodramp/DeepWorks/tree/main/OpenAI-Whisper)
 - [Stable Diffusion Video - Multiple Prompts to Video](https://github.com/prodramp/DeepWorks/tree/main/StableDiffusionVideo)
 - [Stable Diffusion GUI - Gradio UI for Text-to-Image TensorFlow Models](https://github.com/prodramp/DeepWorks/tree/main/Stable-Diffusion-TF-WebUI)
 - [Stable Diffusion - Text-to-Image OpenSource AI Model](https://github.com/prodramp/DeepWorks/tree/main/Stable-Diffusion)
