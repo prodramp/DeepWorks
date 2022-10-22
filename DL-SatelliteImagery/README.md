@@ -5,3 +5,12 @@
  
 ### Code ###
 - [Google Colab Notebook - Data Processing](https://github.com/prodramp/DeepWorks/blob/main/DL-SatelliteImagery/Satellite_Imagery_Segmentation.ipynb)
+
+
+
+## Resources ## 
+- Slide Deck used during Workshop (Please see the files in same folder)
+- Dubai Segmentation Dataset Kaggle - https://www.kaggle.com/datasets/humansintheloop/semantic-segmentation-of-aerial-imagery
+- Dubai Segmentation Dataset Home: https://humansintheloop.org/resources/datasets/semantic-segmentation-dataset-2/
+- GitHub Project (Another) - https://github.com/ayushdabra/dubai-satellite-imagery-segmentation
+- Super Lage (38GB) Space Satellite Image Daset - https://spacenet.ai/sn6-challenge/
