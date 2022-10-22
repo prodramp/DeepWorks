@@ -30,6 +30,11 @@ Join my YouTube Channel for <a href="https://www.youtube.com/channel/UClLqLPWRst
   - [Developing Gradio Based Tabbed UI - 2 Parts](https://github.com/prodramp/DeepWorks/tree/main/DeveloperProgram/GradioTabbedUI)
   - [Creating Python Module, Packaging it as Wheel Package, Delivery and Istallation - 3 Parts](https://github.com/prodramp/DeepWorks/tree/main/DeveloperProgram/PythonModule)
 
+## Deep learning Workshop(s) ## 
+- ### [1] Processing Satellite Imagery to Identify various landmarks (6 Hours) ###
+    - [Part 1. Satellite Imagery Data Processing]()
+    - [Part 2. Appling Deep Learning methods on Satellite Imagery Data]()
+    - [Part 3. Model Deployment and Various other tasks]()
 
 ## Deep Learning and Artificial Intelligence ##
 - [OpenAI Whisper - Audio/Video to Text(Transcribe/Translate)](https://github.com/prodramp/DeepWorks/tree/main/OpenAI-Whisper)
