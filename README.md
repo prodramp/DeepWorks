@@ -32,7 +32,7 @@ Join my YouTube Channel for <a href="https://www.youtube.com/channel/UClLqLPWRst
 
 ## Deep learning Workshop(s) ## 
 - ### [1] Processing Satellite Imagery to Identify various landmarks (6 Hours) ###
-    - [Part 1. Satellite Imagery Data Processing]()
+    - [Part 1. Satellite Imagery Data Processing](https://github.com/prodramp/DeepWorks/blob/main/DL-SatelliteImagery/README.md)
     - [Part 2. Appling Deep Learning methods on Satellite Imagery Data]()
     - [Part 3. Model Deployment and Various other tasks]()
 
