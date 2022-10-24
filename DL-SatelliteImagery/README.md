@@ -16,6 +16,8 @@
 
 
 ## Python Libraries ##
-- https://github.com/qubvel/segmentation_models
+- Segmentation Model for Loss Metrics: https://github.com/qubvel/segmentation_models
 - GitHub Project (Another) - https://github.com/ayushdabra/dubai-satellite-imagery-segmentation
-- https://github.com/lutzroeder/netron
+- Model Visualization: https://github.com/lutzroeder/netron
+- Activation and Gradient Output- https://github.com/philipperemy/keract
+- 
