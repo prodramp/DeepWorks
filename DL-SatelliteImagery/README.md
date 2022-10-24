@@ -20,4 +20,10 @@
 - GitHub Project (Another) - https://github.com/ayushdabra/dubai-satellite-imagery-segmentation
 - Model Visualization: https://github.com/lutzroeder/netron
 - Activation and Gradient Output- https://github.com/philipperemy/keract
-- 
+
+
+## Helpful Articles ##
+- https://medium.com/@Chinmay_Paranjape/satellite-imagery-segmentation-using-u-net-4ec7f265ddbe
+- https://medium.com/@fractal.ai/understanding-satellite-image-for-geo-spatial-deep-learning-a1a7dee2f2de
+- https://github.com/ChinmayParanjape/Satellite-imagery-segmentation-using-U-NET
+
