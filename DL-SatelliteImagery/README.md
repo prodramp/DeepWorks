@@ -26,4 +26,13 @@
 - https://medium.com/@Chinmay_Paranjape/satellite-imagery-segmentation-using-u-net-4ec7f265ddbe
 - https://medium.com/@fractal.ai/understanding-satellite-image-for-geo-spatial-deep-learning-a1a7dee2f2de
 - https://github.com/ChinmayParanjape/Satellite-imagery-segmentation-using-U-NET
+- https://medium.com/sentinel-hub/how-to-normalize-satellite-images-for-deep-learning-d5b668c885af
+- https://medium.com/gsi-technology/a-beginners-guide-to-segmentation-in-satellite-images-9c00d2028d52
+
+## Pixel-wise Image segmentation in satellite/bio-medical images ##
+- [TernausNet: U-Net with VGG11 Encoder Pre-Trained on ImageNet for Image Segmentation](https://arxiv.org/abs/1801.05746)
+- https://github.com/ternaus/TernausNet
+- [U-Net](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/)
+- [Using AI+SAR+Optical To Find The Invisible](https://simularity.com/using-aisaroptical-to-find-the-invisible/)
+
 
