@@ -1,11 +1,41 @@
 # Deep learning with Satellite Image #
 
 ## Part 1 : Satellite Images Data Processing ##  
- 
+ <table class="table table-striped table-bordered table-vcenter">
+    <tr>
+        <td align="center"><b>🔥&nbsp;Deep learning Workshop for Satellite Imagery - Data Processing (Part 1/3)</b></td>
+    </tr>
+    <tr>
+        <td>
+            <div>
+                
+[![Deep learning Workshop for Satellite Imagery - Data Processing (Part 1/3)](https://img.youtube.com/vi/3Xn21RT-y7Y/0.jpg)](https://www.youtube.com/watch?v=3Xn21RT-y7Y)
+
+  </tr>
+</table>
+
+## Part 2 : Deep Learning for Satellite Imagery ##  
+
+<table class="table table-striped table-bordered table-vcenter">
+    <tr>
+        <td align="center"><b>🔥&nbsp;Deep learning Workshop for Satellite Imagery - Training & Prediction (Part 2/3)</b></td>
+    </tr>
+    <tr>
+        <td>
+            <div>
+                
+[![Deep learning Workshop for Satellite Imagery - Training & Prediction (Part 2/3)](https://img.youtube.com/vi/UBzMgr6yfpw/0.jpg)](https://www.youtube.com/watch?v=UBzMgr6yfpw)
+
+  </tr>
+</table>
+
+## Part 3 : Advance Concepts in Deep Learning for Satellite Imagery ##  
+
  
 ### Code ###
-- [Google Colab Notebook - Data Processing](https://github.com/prodramp/DeepWorks/blob/main/DL-SatelliteImagery/Satellite_Imagery_Segmentation.ipynb)
-
+- [Google Colab Notebook - Data Processing (Part 1)](https://github.com/prodramp/DeepWorks/blob/main/DL-SatelliteImagery/Satellite_Imagery_Segmentation.ipynb)
+- [Google Colab Notebook - Deep Learing (Part 2 Base)](https://github.com/prodramp/DeepWorks/blob/main/DL-SatelliteImagery/Satellite_Imagery_DeepLearning-Base.ipynb)
+- [Google Colab Notebook - Deep Learing (Part 2 with Local Diagnostics)](https://github.com/prodramp/DeepWorks/blob/main/DL-SatelliteImagery/Satellite_Imagery_DeepLearning-LocalDiag.ipynb)
 
 
 ## Resources ## 
@@ -20,7 +50,6 @@
 - GitHub Project (Another) - https://github.com/ayushdabra/dubai-satellite-imagery-segmentation
 - Model Visualization: https://github.com/lutzroeder/netron
 - Activation and Gradient Output- https://github.com/philipperemy/keract
-
 
 ## Helpful Articles ##
 - https://medium.com/@Chinmay_Paranjape/satellite-imagery-segmentation-using-u-net-4ec7f265ddbe

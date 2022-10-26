@@ -31,10 +31,10 @@ Join my YouTube Channel for <a href="https://www.youtube.com/channel/UClLqLPWRst
   - [Creating Python Module, Packaging it as Wheel Package, Delivery and Istallation - 3 Parts](https://github.com/prodramp/DeepWorks/tree/main/DeveloperProgram/PythonModule)
 
 ## Deep learning Workshop(s) ## 
-- ### [1] Processing Satellite Imagery to Identify various landmarks (6 Hours) ###
+- ### [1] Processing Satellite Imagery to Identify various landmarks (4 Hours in 3 Videos) ###
     - [Part 1. Satellite Imagery Data Processing](https://github.com/prodramp/DeepWorks/blob/main/DL-SatelliteImagery/README.md)
-    - [Part 2. Appling Deep Learning methods on Satellite Imagery Data]()
-    - [Part 3. Model Deployment and Various other tasks]()
+    - [Part 2. Appling Deep Learning methods on Satellite Imagery Data](https://github.com/prodramp/DeepWorks/blob/main/DL-SatelliteImagery/README.md)
+    - [Part 3. Model Deployment and Various other tasks](https://github.com/prodramp/DeepWorks/blob/main/DL-SatelliteImagery/README.md)
 
 ## Deep Learning and Artificial Intelligence ##
 - [OpenAI Whisper - Audio/Video to Text(Transcribe/Translate)](https://github.com/prodramp/DeepWorks/tree/main/OpenAI-Whisper)
