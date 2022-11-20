@@ -1,4 +1,4 @@
-# A Comparative Hands-on workshop with Gigasheet and Pandas (at Google Colab) #
+# A Comparative Side-by-side Hands-on Workshop with Gigasheet and Pandas (at Google Colab) #
 
 ### YouTube Workshop
 
