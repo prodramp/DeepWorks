@@ -17,8 +17,11 @@ Python Project Files:
 
 
 Resources:
-- https://github.com/ai-coordinator/Face_orientation
 - https://github.com/davisking/dlib-models
 - https://google.github.io/mediapipe/solutions/face_detection.html
 - https://google.github.io/mediapipe/solutions/face_mesh.html
+
+Other GitHub Projects
+- https://github.com/ai-coordinator/Face_orientation
+- https://github.com/akshaybahadur21/FaceOrienter
 
