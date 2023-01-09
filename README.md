@@ -12,7 +12,7 @@ Join my YouTube Channel for <a href="https://www.youtube.com/channel/UClLqLPWRst
 <br>
 
 <div align="center">
-    <a target="_blank" href="https://www.youtube.com/channel/UClLqLPWRsta-inJcDrqh6Pg"><img src="https://img.shields.io/badge/Subscribe-957-brightgreen"></a>&nbsp;
+    <a target="_blank" href="https://www.youtube.com/channel/UClLqLPWRsta-inJcDrqh6Pg"><img src="https://img.shields.io/badge/Subscribe-2350-brightgreen"></a>&nbsp;
     <a target="_blank" href="https://github.com/prodramp/DeepWorks"><img src="https://img.shields.io/github/stars/prodramp/deepworks.svg?style=social&label=Star"></a>&nbsp;
     <a target="_blank" href="https://www.linkedin.com/company/prodramp"><img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social"></a>&nbsp;
     <a target="_blank" href="https://twitter.com/prodramp"><img src="https://img.shields.io/twitter/follow/prodramp.svg?label=Follow&style=social"></a>
