@@ -37,7 +37,7 @@ Join my YouTube Channel for <a href="https://www.youtube.com/channel/UClLqLPWRst
     - [Part 3. Model Deployment and Various other tasks](https://github.com/prodramp/DeepWorks/blob/main/DL-SatelliteImagery/README.md)
 
 ## Generative AI - Art, Content, Media 
-- [ChatGPT]()
+- [ChatGPT](https://github.com/prodramp/DeepWorks/tree/main/ChatGPT/README.md)
 
 ## Deep Learning and Artificial Intelligence ##
 - [OpenAI Whisper - Audio/Video to Text(Transcribe/Translate)](https://github.com/prodramp/DeepWorks/tree/main/OpenAI-Whisper)
