@@ -248,6 +248,7 @@ fn main() {
 
 ```
 Please note that std::version::version_meta requires Rust 1.40.0 or later.
+Note: We tested above code in 1.66.1 and it did not work as vesion method is not longer available. 
 
 
 ### -------------------------------------------------------------------
@@ -255,6 +256,8 @@ Please note that std::version::version_meta requires Rust 1.40.0 or later.
 # Chapter 1 - Exercise Source Code:
   
 ```
+use std::process::Command;
+
 fn print_type_of<T>(_: &T) {
     println!("{}", std::any::type_name::<T>());
 }
@@ -269,8 +272,29 @@ fn simple_add(x: i32, y: i32) -> i32{
     return x + y;
 }
 
+fn get_rust_version(){
+    let output = Command::new("rustc")
+        .arg("--version")
+        .output()
+        .expect("Failed to execute process");
+
+    // Do not use the code below
+    //let rustc_version = String::from_utf8_lossy(&output.stdout).trim();
+    
+    let binding = String::from_utf8_lossy(&output.stdout);
+    let rustc_version = binding.trim();
+    
+    println!("The Rust compiler version is {}", rustc_version);
+}
 
 fn main() {
+
+    // let rustc_version = env!("RUSTC");
+    // println!("The Rust compiler version is {}", rustc_version);
+    
+    get_rust_version();
+    
+    
     simple();
     let sum_x_y = simple_add(10, 300);
     println!("The sum is {}", sum_x_y);
