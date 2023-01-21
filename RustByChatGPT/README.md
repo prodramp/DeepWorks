@@ -209,7 +209,50 @@ println!("The sum of 3 and 2 is {}", result);
 ```
 Functions are first-class citizens in Rust, which means you can assign them to variables, pass them as arguments to other functions, and return them from functions.
 
-# Chapter 1 Exercise Source Code:
+
+## [6] - How to get the rust compiler version from Rust Code? 
+
+You can get the version of the Rust compiler that you are using by using the env! macro and the RUSTC environment variable. The env! macro is used to access environment variables at runtime. Here is an example of how to get the Rust compiler version:
+
+```
+fn main() {
+    let rustc_version = env!("RUSTC");
+    println!("The Rust compiler version is {}", rustc_version);
+}
+
+```
+
+You can also use the std::process::Command struct to run the rustc command and get its version from the output. Here is an example of how to use std::process::Command:
+
+```
+use std::process::Command;
+
+fn main() {
+    let output = Command::new("rustc")
+        .arg("--version")
+        .output()
+        .expect("Failed to execute process");
+    let rustc_version = String::from_utf8_lossy(&output.stdout).trim();
+    println!("The Rust compiler version is {}", rustc_version);
+}
+
+```
+The above example, run the rustc command with --version flag and output() method of Command struct will return the Output struct. The stdout field of Output struct contains the output of the command as a byte vector. The trim() method is used to remove the leading and trailing whitespaces from the string, so that you only get the version number.
+
+In addition, the std::version module provides the version_meta variable which contains the version metadata of the rustc version. Here is an example of how to use std::version::version_meta:
+
+```
+fn main() {
+    println!("The Rust compiler version is {}", std::version::version_meta());
+}
+
+```
+Please note that std::version::version_meta requires Rust 1.40.0 or later.
+
+
+### -------------------------------------------------------------------
+
+# Chapter 1 - Exercise Source Code:
   
 ```
 fn print_type_of<T>(_: &T) {
