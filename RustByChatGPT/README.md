@@ -15,4 +15,4 @@
 </table>
 
 ### GitHub Content:
-- [Chapter 1](https://github.com/prodramp/DeepWorks/blob/main/RustBChatGPT/Chapter1.md)
+- [Chapter 1](https://github.com/prodramp/DeepWorks/blob/main/RustByChatGPT/Chapter1.md)
