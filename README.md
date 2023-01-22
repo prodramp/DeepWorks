@@ -29,6 +29,7 @@ Join my YouTube Channel for <a href="https://www.youtube.com/channel/UClLqLPWRst
   - [Data Processing course in Python for budding Python Developers - 4 Parts](https://github.com/prodramp/DeepWorks/tree/main/DeveloperProgram/PythonDataProcessing)
   - [Developing Gradio Based Tabbed UI - 2 Parts](https://github.com/prodramp/DeepWorks/tree/main/DeveloperProgram/GradioTabbedUI)
   - [Creating Python Module, Packaging it as Wheel Package, Delivery and Istallation - 3 Parts](https://github.com/prodramp/DeepWorks/tree/main/DeveloperProgram/PythonModule)
+  - [Rust By ChatGPT](https://github.com/prodramp/DeepWorks/blob/main/RustByChatGPT/README.md)
 
 ## Deep learning Workshop(s) ## 
 - ### [1] Processing Satellite Imagery to Identify various landmarks (4 Hours in 3 Videos) ###
