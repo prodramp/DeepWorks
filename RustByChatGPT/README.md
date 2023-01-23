@@ -15,4 +15,5 @@
 </table>
 
 ### GitHub Content:
+- [VSCode as Rust IDE](https://github.com/prodramp/DeepWorks/blob/main/RustByChatGPT/VSCodeIDE.md)
 - [Chapter 1](https://github.com/prodramp/DeepWorks/blob/main/RustByChatGPT/Chapter1.md)
