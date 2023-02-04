@@ -1,3 +1,7 @@
+## Python Libraries for ChatGPT
+- https://github.com/rawandahmad698/PyChatGPT
+- https://github.com/terry3041/pyChatGPT
+- https://github.com/acheong08/ChatGPT
 
 ## Open AI Resources 
 1. https://github.com/openai/openai-cookbook
