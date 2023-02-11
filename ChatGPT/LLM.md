@@ -1,5 +1,19 @@
 # Understanding Large Language Model - with ChatGPT #
 
+<table class="table table-striped table-bordered table-vcenter">
+    <tr>
+        <td align="center"><b>🔥&nbsp; LLM:&nbsp;🔥&nbsp;Understanding Large Language Models</b></td>
+    </tr>
+    <tr>
+        <td>
+            <div>
+                
+[![Understanding LLM](https://img.youtube.com/vi/7SXCrW3hVPQ/0.jpg)](https://www.youtube.com/watch?v=7SXCrW3hVPQ)
+
+ </tr>
+</table>
+
+
 Here is a list of ChatGPT prompts to learn technical details about Large Language Model:
 
 - What is chatgpt?
