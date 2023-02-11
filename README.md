@@ -39,6 +39,7 @@ Join my YouTube Channel for <a href="https://www.youtube.com/channel/UClLqLPWRst
 
 ## Generative AI - Art, Content, Media 
 - [ChatGPT](https://github.com/prodramp/DeepWorks/tree/main/ChatGPT/README.md)
+- [Learning Large Language Models](https://github.com/prodramp/DeepWorks/tree/main/ChatGPT/LLM.md)
 
 ## Deep Learning and Artificial Intelligence ##
 - [OpenAI Whisper - Audio/Video to Text(Transcribe/Translate)](https://github.com/prodramp/DeepWorks/tree/main/OpenAI-Whisper)
