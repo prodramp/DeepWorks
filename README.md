@@ -12,14 +12,18 @@ Join my YouTube Channel for <a href="https://www.youtube.com/channel/UClLqLPWRst
 <br>
 
 <div align="center">
-    <a target="_blank" href="https://www.youtube.com/channel/UClLqLPWRsta-inJcDrqh6Pg"><img src="https://img.shields.io/badge/Subscribe-2350-brightgreen"></a>&nbsp;
+    <a target="_blank" href="https://www.youtube.com/channel/UClLqLPWRsta-inJcDrqh6Pg"><img src="https://img.shields.io/badge/Subscribe-2770-brightgreen"></a>&nbsp;
     <a target="_blank" href="https://github.com/prodramp/DeepWorks"><img src="https://img.shields.io/github/stars/prodramp/deepworks.svg?style=social&label=Star"></a>&nbsp;
     <a target="_blank" href="https://www.linkedin.com/company/prodramp"><img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social"></a>&nbsp;
     <a target="_blank" href="https://twitter.com/prodramp"><img src="https://img.shields.io/twitter/follow/prodramp.svg?label=Follow&style=social"></a>
     <br>
-    🔥&nbsp; Among the <a href="https://github.com/topics/deeplearning" target="_blank">Upcoming Deep Learning</a> repository on GitHub
+    🔥&nbsp; Among the <a href="https://github.com/topics/deeplearning" target="_blank">Upcoming Deep Learning</a> repository on GitHub and YouTube Channel
     &nbsp;🔥
 </div>
+
+<div align="center">
+  <img src="https://github.com/prodramp/DeepWorks/blob/main/images/prodramp-page.png?raw=true" width="1200" />
+</div> 
 
 <br>
 <hr>
