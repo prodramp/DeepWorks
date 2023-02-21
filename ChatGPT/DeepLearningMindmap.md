@@ -13,12 +13,16 @@
  </tr>
 </table>
 
+# Deep Learning Study Mindmap - PlantUML Text # 
+- https://github.com/prodramp/DeepWorks/blob/main/ChatGPT/deeplearning-study-mindmap.txt 
+
 # Deep Learning Study Mindmap # 
 
 <div align="center">
   <img src="https://github.com/prodramp/DeepWorks/blob/main/ChatGPT/dl-mind-map.jpg?raw=true" width="1300" />
 </div> 
 
+# Deep Learning Study Mindmap - PlantUML Text # 
 
 # Here is a list of ChatGPT prompts for creating Deep Learning Study Plan: # 
 
