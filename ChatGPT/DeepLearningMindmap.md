@@ -16,7 +16,7 @@
 # Deep Learning Study Mindmap # 
 
 <div align="center">
-  <img src="https://github.com/prodramp/DeepWorks/blob/main/ChatGPT/dl-mind-map.png?raw=true" width="1300" />
+  <img src="https://github.com/prodramp/DeepWorks/blob/main/ChatGPT/dl-mind-map.jpg?raw=true" width="1300" />
 </div> 
 
 
