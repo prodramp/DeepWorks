@@ -35,7 +35,7 @@ Join my @Prodramp YouTube Channel for <a href="https://www.youtube.com/channel/@
   - [Developing Gradio Based Tabbed UI - 2 Parts](https://github.com/prodramp/DeepWorks/tree/main/DeveloperProgram/GradioTabbedUI)
   - [Creating Python Module, Packaging it as Wheel Package, Delivery and Istallation - 3 Parts](https://github.com/prodramp/DeepWorks/tree/main/DeveloperProgram/PythonModule)
   - [Rust By ChatGPT](https://github.com/prodramp/DeepWorks/blob/main/RustByChatGPT/README.md)
-
+  - [Statistics of Machine Learning](https://github.com/prodramp/DeepWorks/blob/main/DeveloperProgram/ml-statistics/Statistics.md)
 ## Deep learning Workshop(s) ## 
 - ### [1] Processing Satellite Imagery to Identify various landmarks (4 Hours in 3 Videos) ###
     - [Part 1. Satellite Imagery Data Processing](https://github.com/prodramp/DeepWorks/blob/main/DL-SatelliteImagery/README.md)
