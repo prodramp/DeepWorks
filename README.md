@@ -44,6 +44,7 @@ Join my @Prodramp YouTube Channel for <a href="https://www.youtube.com/channel/@
 
 ## Generative AI - Art, Content, Media 
 - [ChatGPT](https://github.com/prodramp/DeepWorks/tree/main/ChatGPT/README.md)
+- [FineTune LLM](https://github.com/prodramp/DeepWorks/tree/main/ChatGPT/FineTuneLLM.md)
 - [Learning Large Language Models](https://github.com/prodramp/DeepWorks/tree/main/ChatGPT/LLM.md)
 - [Deep Learning Study Plan MindMap](https://github.com/prodramp/DeepWorks/tree/main/ChatGPT/DeepLearningMindmap.md)
 
