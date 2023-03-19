@@ -1,13 +1,13 @@
 # Finetuning LLM # 
+LLM can be  extended, by fine tuning with custom dataset to provide Q&A, summary and many other ChatGPT like functions.  In this video, we are using LlamaIndex (GPT Index) which provides a central interface to connect your LLM's with external data. 
 
-
-
-### Using LlamaIndex (previously known as GPT Index)
+### Using LlamaIndex (previously known as GPT-Index)
 LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data. 
 
 - https://github.com/jerryjliu/llama_index
 - https://llamahub.ai/
-- https://gpt-index.readthedocs.io/en/latest/reference/readers.html#gpt_index.readers.SimpleDirectoryReader
+- https://gpt-index.readthedocs.io/en/latest/reference/readers.html
+
 
 ### Video Tutorial - Fine Tuning LLM with Custom Data (using Open AI GPT) in python
 <table class="table table-striped table-bordered table-vcenter">
