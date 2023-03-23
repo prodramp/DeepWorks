@@ -1,5 +1,12 @@
-# Finetuning LLM # 
-Developing ChatGPT style Enterprise Application to answers from the enterprise wide content
+#  Beginners workshop to train OpenAI LLM model with enterprise web data in Python # 
+
+This hands-on workshop shows how to use Langchain LLM application framework with Chroma embedding database to fine-tune an OpenAI GPT-3.5-Turbo LLM model on web data. The final solution returns ChatGPT like interface to your customer web data. 
+
+You will also learn:
+- Why it is important to fine-tune LLM models with ad-hoc data
+- How to use open-source libraries i.e Langchain, ChromaDB
+
+### Developing ChatGPT style Enterprise Application to answers from the enterprise wide content
 
 <div align="center">
   <img src="https://github.com/prodramp/DeepWorks/blob/main/ChatGPT/langchain-openai.png?raw=true" width="1200" />
@@ -19,7 +26,7 @@ Developing ChatGPT style Enterprise Application to answers from the enterprise w
  </tr>
 </table>
 
-### Open-source Libraries Used:
+## Open-source Libraries Used:
 
 - https://github.com/chroma-core/chroma
     - https://openai.com/blog/new-and-improved-embedding-model
@@ -29,7 +36,7 @@ Developing ChatGPT style Enterprise Application to answers from the enterprise w
 - https://github.com/openai/tiktoken
 - https://github.com/Unstructured-IO/unstructured 
 
-### full_code_demo.py
+## full_code_demo.py
 ```
 import os
 from pprint import pprint
