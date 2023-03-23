@@ -21,7 +21,7 @@ You will also learn:
         <td>
             <div>
                 
-[![Developing ChatGPT style Enterprise App (Combining Langchain, Chromadb & OpenAI)](https://img.youtube.com/vi/6aOzoJKNLKQ/0.jpg)](https://www.youtube.com/watch?v=6aOzoJKNLKQ)
+[![Developing ChatGPT style Enterprise App (Combining Langchain, Chromadb & OpenAI)](https://img.youtube.com/vi/JB1VT7zvEII/0.jpg)](https://www.youtube.com/watch?v=JB1VT7zvEII)
 
  </tr>
 </table>
