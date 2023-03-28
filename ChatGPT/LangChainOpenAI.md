@@ -12,7 +12,7 @@ You will also learn:
   <img src="https://github.com/prodramp/DeepWorks/blob/main/ChatGPT/langchain-openai.png?raw=true" width="1200" />
 </div> 
 
-### Video Tutorial - Developing ChatGPT style Enterprise App (Combining Langchain, Chromadb & OpenAI) 
+### Video Tutorial - Beginners workshop to train OpenAI LLM model with enterprise web data in Python 
 <table class="table table-striped table-bordered table-vcenter">
     <tr>
         <td align="center"><b>🔥&nbsp;Developing ChatGPT style Enterprise App (Combining Langchain, Chromadb & OpenAI)</b></td>
@@ -112,3 +112,7 @@ os.environ["OPENAI_API_KEY"] = ''
 print("---------- Life is good ----------------")
 
 ```
+
+### Other Resources
+- https://blog.devgenius.io/how-to-ensure-openais-gpt-3-provides-an-accurate-answer-and-stays-on-topic-af5da300ba81
+- https://towardsdatascience.com/how-chatgpt-works-the-models-behind-the-bot-1ce5fca96286
