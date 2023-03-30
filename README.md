@@ -43,6 +43,8 @@ Join my @Prodramp YouTube Channel for <a href="https://www.youtube.com/channel/@
     - [Part 3. Model Deployment and Various other tasks](https://github.com/prodramp/DeepWorks/blob/main/DL-SatelliteImagery/README.md)
 
 ## Generative AI - Art, Content, Media 
+- [Whiteboarding - Understanding ChatGPT](https://github.com/prodramp/DeepWorks/tree/main/ChatGPT/Whiteboarding-ChatGPT-Intro.md)
+- [Whiteboarding - Understanding LLM Tech Stack](https://github.com/prodramp/DeepWorks/tree/main/ChatGPT/Whiteboarding-LLM-TechStack.md)
 - [Developing ChatGPT style Enterprise Content Q/A Application](https://github.com/prodramp/DeepWorks/tree/main/ChatGPT/LangChainOpenAI.md)
 - [ChatGPT](https://github.com/prodramp/DeepWorks/tree/main/ChatGPT/README.md)
 - [FineTune LLM](https://github.com/prodramp/DeepWorks/tree/main/ChatGPT/FineTuneLLM.md)
