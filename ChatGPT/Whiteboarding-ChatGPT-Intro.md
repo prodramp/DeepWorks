@@ -8,7 +8,7 @@ Content covered:
 ### Whiteboarding Video Tutorial - Understanding ChatGPT
 <table class="table table-striped table-bordered table-vcenter">
     <tr>
-        <td align="center"><b>🔥&nbsp;Fine Tuning LLM with Custom Data (using Open AI GPT) in python</b></td>
+        <td align="center"><b>🔥&nbsp;Whiteboarding - Let's understand ChatGPT</b></td>
     </tr>
     <tr>
         <td>
