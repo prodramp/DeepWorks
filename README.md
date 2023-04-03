@@ -43,7 +43,11 @@ Join my @Prodramp YouTube Channel for <a href="https://www.youtube.com/channel/@
     - [Part 3. Model Deployment and Various other tasks](https://github.com/prodramp/DeepWorks/blob/main/DL-SatelliteImagery/README.md)
 
 ## LLM and OpenSource Models 
-- [LLM Research and a list of Opensource LLM Models]((https://github.com/prodramp/DeepWorks/tree/main/llm/README.md))
+- [LLM Research and Opensource LLM Models]((https://github.com/prodramp/DeepWorks/tree/main/llm/README.md))
+
+## Exciting NeRF Projects and OpenSource Models 
+- [NeRF Research and Opensource NeRF Models]((https://github.com/prodramp/DeepWorks/tree/main/nerf/README.md))
+
 
 ## Generative AI - Art, Content, Media 
 - [Whiteboarding - Understanding ChatGPT](https://github.com/prodramp/DeepWorks/tree/main/ChatGPT/Whiteboarding-ChatGPT-Intro.md)

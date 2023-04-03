@@ -15,7 +15,7 @@ Content covered:
         <td>
             <div>
                 
-[![Whiteboarding - Let's understand LLM Tech Stack](https://img.youtube.com/vi/xnPUidsTMuY/0.jpg)](https://www.youtube.com/watch?v=xnPUidsTMuY)
+[![Whiteboarding - Let's understand LLM Tech Stack](https://img.youtube.com/vi/poNmCYnJdqA/0.jpg)](https://www.youtube.com/watch?v=poNmCYnJdqA)
 
  </tr>
 </table>
