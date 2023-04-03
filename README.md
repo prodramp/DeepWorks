@@ -42,6 +42,9 @@ Join my @Prodramp YouTube Channel for <a href="https://www.youtube.com/channel/@
     - [Part 2. Appling Deep Learning methods on Satellite Imagery Data](https://github.com/prodramp/DeepWorks/blob/main/DL-SatelliteImagery/README.md)
     - [Part 3. Model Deployment and Various other tasks](https://github.com/prodramp/DeepWorks/blob/main/DL-SatelliteImagery/README.md)
 
+## LLM and OpenSource Models 
+- [LLM Research and a list of Opensource LLM Models]((https://github.com/prodramp/DeepWorks/tree/main/llm/README.md))
+
 ## Generative AI - Art, Content, Media 
 - [Whiteboarding - Understanding ChatGPT](https://github.com/prodramp/DeepWorks/tree/main/ChatGPT/Whiteboarding-ChatGPT-Intro.md)
 - [Whiteboarding - Understanding LLM Tech Stack](https://github.com/prodramp/DeepWorks/tree/main/ChatGPT/Whiteboarding-LLM-TechStack.md)
