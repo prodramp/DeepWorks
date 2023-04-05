@@ -1,9 +1,13 @@
 # NeRF Projects # 
 
-
 - https://github.com/NVlabs/eg3d
 - https://github.com/CompVis/stable-diffusion
 - https://github.com/ashawkey/stable-dreamfusion
+
+# NeRF Projects added into this repo
+
+- [Instruct-NeRFNeRF](https://github.com/prodramp/DeepWorks/tree/main/nerf/Instruct-NeRFNeRF.md)
+
 
 ## Tools 
 - [NVIDIA/modulus - A PyTorch based deep-learning toolkit for developing DL models for physical systems](https://github.com/NVIDIA/modulus)
