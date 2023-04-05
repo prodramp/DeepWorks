@@ -29,6 +29,7 @@
 
 ## Diffusion Projects
 - [Stable Diffusion with HRLF](https://github.com/TZW1998/Taming-Stable-Diffusion-with-Human-Ranking-Feedback)
+- [Dreamix - Video Diffusion Models are General Video Editors](https://github.com/prodramp/DeepWorks/blob/main/DiffusionModels/Dreamix-DiffusionMixVideoEditing.md)
 
 ## Important Libraries 
 - [DeepSpeed](https://huggingface.co/docs/transformers/main/main_classes/deepspeed)
