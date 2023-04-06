@@ -13,7 +13,21 @@ Our method gradually updates a reconstructed NeRF scene by iteratively updating 
 - The training dataset image is replaced with the edited image.
 - The NeRF continues training as usual.
 
-https://instruct-nerf2nerf.github.io/data/videos/face.mp4
+<table class="table table-striped table-bordered table-vcenter">
+    <tr>
+        <td align="center"><b>🔥&nbsp; Instruct-NeRF2NeRF - Combining Diffusion Models with NeRF to create new NeRF Objects</b></td>
+    </tr>
+    <tr>
+        <td>
+            <div>
+                
+[![Instruct-NeRF2NeRF - Combining Diffusion Models with NeRF to create new NeRF Objects](https://img.youtube.com/vi/XAZJuY2Gb0Y/0.jpg)](https://www.youtube.com/watch?v=XAZJuY2Gb0Y)
+
+  </tr>
+</table>
+
+<video src="https://github.com/prodramp/DeepWorks/blob/main/videos/face.mp4" controls="controls" style="max-width: 730px;"></video>
+  
 
 ## Project URL
 - https://instruct-nerf2nerf.github.io/
