@@ -1,11 +1,11 @@
-# A Collection of Autonomous Driving Projects
+# A **Collection of Autonomous Driving Projects**
 
 ## https://github.com/stepankonev/waymo-motion-prediction-challenge-2022-multipath-plus-plus
 Autonomous driving technology is developing rapidly and nowadays first autonomous rides are being provided in city areas. This requires the highest standards for the safety and reliability of the technology. Motion prediction part of the general self-driving pipeline plays a crucial role in providing these qualities. In this work we present one of the solutions for Waymo Motion Prediction Challenge 2022 based on MultiPath++ ranked the 3rd as of May, 26 2022. Our source code is publicly available on GitHub.
 
+**Other items**
 
-
-
+Test Item
 
 # Workshops and Resources 
 
