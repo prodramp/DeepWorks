@@ -7,7 +7,7 @@ import os
 from pytubefix import YouTube
 from pytubefix.cli import on_progress
 url = "your_youtube_url"
-yt = YouTube(url, on_progress_callback = on_progress)
+yt = YouTube(url,  'WEB_CREATOR', on_progress_callback = on_progress)
 ys = yt.streams.filter(only_audio=True).first()
 # Following command will download a file_name.mp4
 ys.download()
@@ -28,7 +28,7 @@ os.rename(mp3, new_file)
 from pytubefix import YouTube
 from pytubefix.cli import on_progress
 url = "your_youtube_url"
-yt = YouTube(url, on_progress_callback = on_progress)
+yt = YouTube(url,  'WEB_CREATOR', on_progress_callback = on_progress)
 ys = yt.streams.filter(adaptive=True).order_by("resolution").last()
 ys.download()
 
